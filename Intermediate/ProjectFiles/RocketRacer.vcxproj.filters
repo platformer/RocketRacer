@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RocketRacer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7CE0DB98-D6A2-4198-AD27-53DE5BBE9F37}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RocketRacer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RocketRacerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DC30FA16-67D1-474E-BBD5-B3F3E021CED3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RocketRacer">
+      <UniqueIdentifier>{8C2B4F09-AC24-49F5-9B8E-2FA4FFCE807D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RocketRacer\RocketRacer.Build.cs">
+      <Filter>Source\RocketRacer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RocketRacer\RocketRacer.cpp">
+      <Filter>Source\RocketRacer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RocketRacer\RocketRacer.h">
+      <Filter>Source\RocketRacer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RocketRacer\SortArray.cpp">
+      <Filter>Source\RocketRacer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RocketRacer\SortArray.h">
+      <Filter>Source\RocketRacer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

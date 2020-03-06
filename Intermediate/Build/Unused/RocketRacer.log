@@ -1,0 +1,20 @@
+﻿  Creating makefile for RocketRacerEditor (.uproject file is newer)
+  Parsing headers for RocketRacerEditor
+    Running UnrealHeaderTool "C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\RocketRacer.uproject" "C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Intermediate\Build\Win64\RocketRacerEditor\Development\RocketRacerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for RocketRacerEditor in 5.9685459 seconds
+  Building RocketRacerEditor...
+  Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 9 actions with 8 processes...
+    [1/9] Default.rc2
+    [2/9] SharedPCH.Engine.ShadowErrors.cpp
+    [3/9] RocketRacer.cpp
+    [4/9] SortArray.cpp
+    [5/9] RocketRacer.init.gen.cpp
+    [6/9] SortArray.gen.cpp
+    [7/9] UE4Editor-RocketRacer.lib
+       Creating library C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\UE4Editor-RocketRacer.lib and object C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\UE4Editor-RocketRacer.exp
+    [8/9] UE4Editor-RocketRacer.dll
+       Creating library C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\UE4Editor-RocketRacer.suppressed.lib and object C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\UE4Editor-RocketRacer.suppressed.exp
+    [9/9] RocketRacerEditor.target
+  Total time in Parallel executor: 22.70 seconds
+  Total execution time: 32.25 seconds

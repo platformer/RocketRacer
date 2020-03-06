@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RocketRacer-1949.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\RocketRacerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\RocketRacer.cpp.obj"
+"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\SortArray.cpp.obj"
+"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\RocketRacer.init.gen.cpp.obj"
+"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\SortArray.gen.cpp.obj"
+"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\Default.rc2.res"
+/OUT:"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\UE4Editor-RocketRacer-1949.lib"
+/INCLUDE:IMPLEMENT_MODULE_RocketRacer

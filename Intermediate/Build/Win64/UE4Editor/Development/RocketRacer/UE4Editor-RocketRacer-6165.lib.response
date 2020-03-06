@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RocketRacer-6165.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\andre\OneDrive\Documents\Unreal Projects\RocketRacer\Intermediate\Build\Win64\RocketRacerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\andre\OneDrive\Documents\Unreal Projects\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\RocketRacer.cpp.obj"
+"C:\Users\andre\OneDrive\Documents\Unreal Projects\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\SortArray.cpp.obj"
+"C:\Users\andre\OneDrive\Documents\Unreal Projects\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\RocketRacer.init.gen.cpp.obj"
+"C:\Users\andre\OneDrive\Documents\Unreal Projects\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\SortArray.gen.cpp.obj"
+"C:\Users\andre\OneDrive\Documents\Unreal Projects\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\Default.rc2.res"
+/OUT:"C:\Users\andre\OneDrive\Documents\Unreal Projects\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\UE4Editor-RocketRacer-6165.lib"
+/INCLUDE:IMPLEMENT_MODULE_RocketRacer
