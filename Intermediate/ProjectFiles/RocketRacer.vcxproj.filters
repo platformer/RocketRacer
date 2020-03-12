@@ -41,11 +41,5 @@
     <ClInclude Include="..\..\Source\RocketRacer\RocketRacer.h">
       <Filter>Source\RocketRacer</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\RocketRacer\SortArray.cpp">
-      <Filter>Source\RocketRacer</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\RocketRacer\SortArray.h">
-      <Filter>Source\RocketRacer</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

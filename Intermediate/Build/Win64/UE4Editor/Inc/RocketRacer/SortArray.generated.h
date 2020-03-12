@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ROCKETRACER_SortArray_generated_h
 
-#define RocketRacerTemp_Source_RocketRacer_SortArray_h_15_SPARSE_DATA
-#define RocketRacerTemp_Source_RocketRacer_SortArray_h_15_RPC_WRAPPERS
-#define RocketRacerTemp_Source_RocketRacer_SortArray_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define RocketRacerTemp_Source_RocketRacer_SortArray_h_15_INCLASS_NO_PURE_DECLS \
+#define RocketRacer_Source_RocketRacer_SortArray_h_15_SPARSE_DATA
+#define RocketRacer_Source_RocketRacer_SortArray_h_15_RPC_WRAPPERS
+#define RocketRacer_Source_RocketRacer_SortArray_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define RocketRacer_Source_RocketRacer_SortArray_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUSortArray(); \
 	friend struct Z_Construct_UClass_USortArray_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(USortArray)
 
 
-#define RocketRacerTemp_Source_RocketRacer_SortArray_h_15_INCLASS \
+#define RocketRacer_Source_RocketRacer_SortArray_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesUSortArray(); \
 	friend struct Z_Construct_UClass_USortArray_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(USortArray)
 
 
-#define RocketRacerTemp_Source_RocketRacer_SortArray_h_15_STANDARD_CONSTRUCTORS \
+#define RocketRacer_Source_RocketRacer_SortArray_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USortArray(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USortArray) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define RocketRacerTemp_Source_RocketRacer_SortArray_h_15_ENHANCED_CONSTRUCTORS \
+#define RocketRacer_Source_RocketRacer_SortArray_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USortArray(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -60,28 +60,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USortArray); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USortArray)
 
 
-#define RocketRacerTemp_Source_RocketRacer_SortArray_h_15_PRIVATE_PROPERTY_OFFSET
-#define RocketRacerTemp_Source_RocketRacer_SortArray_h_12_PROLOG
-#define RocketRacerTemp_Source_RocketRacer_SortArray_h_15_GENERATED_BODY_LEGACY \
+#define RocketRacer_Source_RocketRacer_SortArray_h_15_PRIVATE_PROPERTY_OFFSET
+#define RocketRacer_Source_RocketRacer_SortArray_h_12_PROLOG
+#define RocketRacer_Source_RocketRacer_SortArray_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	RocketRacerTemp_Source_RocketRacer_SortArray_h_15_PRIVATE_PROPERTY_OFFSET \
-	RocketRacerTemp_Source_RocketRacer_SortArray_h_15_SPARSE_DATA \
-	RocketRacerTemp_Source_RocketRacer_SortArray_h_15_RPC_WRAPPERS \
-	RocketRacerTemp_Source_RocketRacer_SortArray_h_15_INCLASS \
-	RocketRacerTemp_Source_RocketRacer_SortArray_h_15_STANDARD_CONSTRUCTORS \
+	RocketRacer_Source_RocketRacer_SortArray_h_15_PRIVATE_PROPERTY_OFFSET \
+	RocketRacer_Source_RocketRacer_SortArray_h_15_SPARSE_DATA \
+	RocketRacer_Source_RocketRacer_SortArray_h_15_RPC_WRAPPERS \
+	RocketRacer_Source_RocketRacer_SortArray_h_15_INCLASS \
+	RocketRacer_Source_RocketRacer_SortArray_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define RocketRacerTemp_Source_RocketRacer_SortArray_h_15_GENERATED_BODY \
+#define RocketRacer_Source_RocketRacer_SortArray_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	RocketRacerTemp_Source_RocketRacer_SortArray_h_15_PRIVATE_PROPERTY_OFFSET \
-	RocketRacerTemp_Source_RocketRacer_SortArray_h_15_SPARSE_DATA \
-	RocketRacerTemp_Source_RocketRacer_SortArray_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	RocketRacerTemp_Source_RocketRacer_SortArray_h_15_INCLASS_NO_PURE_DECLS \
-	RocketRacerTemp_Source_RocketRacer_SortArray_h_15_ENHANCED_CONSTRUCTORS \
+	RocketRacer_Source_RocketRacer_SortArray_h_15_PRIVATE_PROPERTY_OFFSET \
+	RocketRacer_Source_RocketRacer_SortArray_h_15_SPARSE_DATA \
+	RocketRacer_Source_RocketRacer_SortArray_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	RocketRacer_Source_RocketRacer_SortArray_h_15_INCLASS_NO_PURE_DECLS \
+	RocketRacer_Source_RocketRacer_SortArray_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -89,7 +89,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> ROCKETRACER_API UClass* StaticClass<class USortArray>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID RocketRacerTemp_Source_RocketRacer_SortArray_h
+#define CURRENT_FILE_ID RocketRacer_Source_RocketRacer_SortArray_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

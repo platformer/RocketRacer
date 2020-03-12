@@ -228,8 +228,8 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\AudioMixerCore\Public
-/I "C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\UE4Editor\Inc\RocketRacer"
-/I "C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Source"
+/I "C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Intermediate\Build\Win64\UE4Editor\Inc\RocketRacer"
+/I "C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Source"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -259,12 +259,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\RocketRacerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\RocketRacerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\RocketRacerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Source\RocketRacer\RocketRacer.cpp"
-/FI"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\Definitions.RocketRacer.h"
-/Fo"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacer\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\RocketRacer.cpp.obj"
+/FI"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Intermediate\Build\Win64\RocketRacerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Intermediate\Build\Win64\RocketRacerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Intermediate\Build\Win64\RocketRacerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Source\RocketRacer\RocketRacer.cpp"
+/FI"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\Definitions.RocketRacer.h"
+/Fo"C:\Andrew\School\Grade 12\ISM\Final Product\RocketRacerTemp\Intermediate\Build\Win64\UE4Editor\Development\RocketRacer\RocketRacer.cpp.obj"
 /TP
 /GR-
 /W4
