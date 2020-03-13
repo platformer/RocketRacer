@@ -1,0 +1,1357 @@
+﻿Log file open, 03/13/20 16:50:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RocketRacer
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.139028
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.13-21.50.17:543][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.13-21.50.17:543][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.13-21.50.17:543][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.03.13-21.50.17:544][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.13-21.50.17:544][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.03.13-21.50.17:544][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.03.13-21.50.17:544][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.13-21.50.17:544][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.13-21.50.17:544][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.13-21.50.17:544][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.13-21.50.17:544][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.13-21.50.17:544][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.13-21.50.17:545][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.13-21.50.17:545][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.13-21.50.17:545][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.13-21.50.17:545][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.13-21.50.17:545][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.13-21.50.17:545][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.13-21.50.17:545][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.13-21.50.17:545][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.13-21.50.17:545][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.03.13-21.50.17:545][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.13-21.50.17:545][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.13-21.50.17:546][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.03.13-21.50.17:546][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.03.13-21.50.17:558][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:558][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.13-21.50.17:558][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.13-21.50.17:558][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:558][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.13-21.50.17:559][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:559][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.13-21.50.17:559][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.13-21.50.17:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.13-21.50.17:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.13-21.50.17:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.13-21.50.17:559][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.13-21.50.17:559][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.13-21.50.17:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.13-21.50.17:559][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.13-21.50.17:560][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.13-21.50.17:561][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.13-21.50.17:562][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.13-21.50.17:563][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.13-21.50.17:564][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.13-21.50.17:565][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.13-21.50.17:565][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.13-21.50.17:577][  0]LogHAL: Display: Platform has ~ 16 GB [17101164544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.13-21.50.17:577][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.13-21.50.17:577][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:577][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.13-21.50.17:577][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.13-21.50.17:577][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:577][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.13-21.50.17:577][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:577][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.13-21.50.17:578][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.13-21.50.17:579][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.13-21.50.17:580][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.13-21.50.17:581][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.13-21.50.17:582][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.03.13-21.50.17:582][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.13-21.50.17:583][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.13-21.50.17:583][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.13-21.50.17:583][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.13-21.50.17:583][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.13-21.50.17:584][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.13-21.50.17:584][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.03.13-21.50.17:584][  0]LogInit: Computer: DESKTOP-O2BFK72
+[2020.03.13-21.50.17:584][  0]LogInit: User: andre
+[2020.03.13-21.50.17:584][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.13-21.50.17:584][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.13-21.50.17:585][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.13-21.50.17:585][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.13-21.50.17:585][  0]LogMemory: Process Physical Memory: 109.93 MB used, 109.93 MB peak
+[2020.03.13-21.50.17:585][  0]LogMemory: Process Virtual Memory: 100.65 MB used, 100.65 MB peak
+[2020.03.13-21.50.17:585][  0]LogMemory: Physical Memory: 6510.85 MB used,  9798.09 MB free, 16308.94 MB total
+[2020.03.13-21.50.17:585][  0]LogMemory: Virtual Memory: 5137.50 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.03.13-21.50.17:598][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.13-21.50.17:681][  0]LogInit: Using OS detected language (en-US).
+[2020.03.13-21.50.17:681][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.13-21.50.17:684][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.13-21.50.18:071][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.13-21.50.18:194][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.13-21.50.18:194][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.13-21.50.18:628][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.13-21.50.18:628][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.13-21.50.18:628][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.13-21.50.18:628][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.13-21.50.18:768][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.03.13-21.50.18:768][  0]LogD3D11RHI:       1979/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.13-21.50.18:868][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.03.13-21.50.18:869][  0]LogD3D11RHI:       128/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.13-21.50.18:875][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.13-21.50.18:875][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.13-21.50.18:875][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.13-21.50.18:979][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.13-21.50.18:979][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.03.13-21.50.18:979][  0]LogWindows: EnumDisplayDevices:
+[2020.03.13-21.50.18:980][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.03.13-21.50.18:981][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.03.13-21.50.18:982][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.03.13-21.50.18:983][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.13-21.50.18:983][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.03.13-21.50.18:983][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.13-21.50.18:983][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.13-21.50.18:983][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2020.03.13-21.50.19:107][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.13-21.50.19:108][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.13-21.50.19:139][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.13-21.50.19:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.13-21.50.19:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.13-21.50.20:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.13-21.50.20:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.13-21.50.20:026][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.13-21.50.20:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.13-21.50.20:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.13-21.50.20:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.13-21.50.20:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.13-21.50.20:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.13-21.50.20:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.13-21.50.20:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.13-21.50.20:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.13-21.50.20:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.13-21.50.20:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.13-21.50.20:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.13-21.50.20:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.13-21.50.20:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.13-21.50.20:298][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.13-21.50.20:305][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.13-21.50.20:365][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Intermediate/Shaders/WorkingDirectory/11140/).
+[2020.03.13-21.50.20:365][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/andre/AppData/Local/Temp/UnrealShaderWorkingDir/A64C3F62450BBD474D56688E44650AA1/'.
+[2020.03.13-21.50.20:367][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.13-21.50.20:367][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.13-21.50.20:367][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.13-21.50.21:953][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.13-21.50.22:022][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.13-21.50.22:022][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.13-21.50.22:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.13-21.50.22:023][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.13-21.50.22:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.13-21.50.22:023][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.13-21.50.22:038][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.13-21.50.22:038][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.13-21.50.22:038][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.13-21.50.22:040][  0]LogDerivedDataCache: Using Local data cache path C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.13-21.50.22:040][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.13-21.50.22:040][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.13-21.50.22:084][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.13-21.50.22:088][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.13-21.50.22:089][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.13-21.50.22:167][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2020.03.13-21.50.22:585][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.13-21.50.22:853][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.13-21.50.22:853][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.13-21.50.22:853][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.13-21.50.22:853][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.13-21.50.22:853][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.13-21.50.22:877][  0]LogNetVersion: RocketRacer 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2842693076)
+[2020.03.13-21.50.24:610][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.103090 seconds
+[2020.03.13-21.50.24:625][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.13-21.50.24:625][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.13-21.50.24:625][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.13-21.50.25:368][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.13-21.50.25:373][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.13-21.50.25:490][  0]SourceControl: Source control is disabled
+[2020.03.13-21.50.25:491][  0]SourceControl: Source control is disabled
+[2020.03.13-21.50.25:492][  0]SourceControl: Source control is disabled
+[2020.03.13-21.50.25:495][  0]SourceControl: Source control is disabled
+[2020.03.13-21.50.25:497][  0]SourceControl: Source control is disabled
+[2020.03.13-21.50.25:659][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.13-21.50.25:677][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.13-21.50.25:677][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.13-21.50.25:799][  0]LogOcInput: OculusInput pre-init called
+[2020.03.13-21.50.25:810][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.13-21.50.25:810][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.13-21.50.25:904][  0]LogEngine: Initializing Engine...
+[2020.03.13-21.50.25:905][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.13-21.50.25:907][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.13-21.50.26:402][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.13-21.50.26:414][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.13-21.50.26:455][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.13-21.50.26:455][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.13-21.50.26:455][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.13-21.50.26:455][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.13-21.50.26:455][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.13-21.50.26:455][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.13-21.50.26:455][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.13-21.50.26:455][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.13-21.50.26:456][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.13-21.50.26:456][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.13-21.50.26:511][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.13-21.50.26:511][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.13-21.50.26:511][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.13-21.50.26:511][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.13-21.50.26:511][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.13-21.50.26:511][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.13-21.50.26:511][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.13-21.50.26:511][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.13-21.50.26:511][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.13-21.50.26:832][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.13-21.50.26:848][  0]LogInit: FAudioDevice initialized.
+[2020.03.13-21.50.26:848][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.13-21.50.27:004][  0]LogDerivedDataCache: Saved boot cache 0.16s 78MB C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.13-21.50.27:016][  0]LogInit: Texture streaming: Enabled
+[2020.03.13-21.50.27:036][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.13-21.50.27:036][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.13-21.50.27:039][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.13-21.50.27:167][  0]LogInit: Transaction tracking system initialized
+[2020.03.13-21.50.27:194][  0]BlueprintLog: New page: Editor Load
+[2020.03.13-21.50.27:250][  0]LocalizationService: Localization service is disabled
+[2020.03.13-21.50.27:655][  0]LogFileCache: Scanning file cache for directory 'C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/' took 0.01s
+[2020.03.13-21.50.27:655][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.13-21.50.27:655][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.13-21.50.28:734][  0]SourceControl: Source control is disabled
+[2020.03.13-21.50.28:735][  0]Cmd: MAP LOAD FILE="../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.13-21.50.28:735][  0]LightingResults: New page: Lighting Build
+[2020.03.13-21.50.28:736][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.13-21.50.28:736][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.13-21.50.28:736][  0]MapCheck: New page: Map Check
+[2020.03.13-21.50.28:737][  0]LightingResults: New page: Lighting Build
+[2020.03.13-21.50.28:775][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.03.13-21.50.29:656][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.03.13-21.50.29:734][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.13-21.50.29:777][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.03.13-21.50.29:777][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.13-21.50.29:777][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.231ms to complete.
+[2020.03.13-21.50.29:777][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 1.042
+[2020.03.13-21.50.30:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-21.50.30:106][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-21.50.30:122][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-21.50.30:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-21.50.30:155][  0]LogCollectionManager: Loaded 0 collections in 0.004883 seconds
+[2020.03.13-21.50.30:185][  0]LogFileCache: Scanning file cache for directory 'C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Collections/' took 0.00s
+[2020.03.13-21.50.30:185][  0]LogFileCache: Scanning file cache for directory 'C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Developers/andre/Collections/' took 0.00s
+[2020.03.13-21.50.30:185][  0]LogFileCache: Scanning file cache for directory 'C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Collections/' took 0.00s
+[2020.03.13-21.50.30:185][  0]LogContentBrowser: Native class hierarchy populated in 0.0189 seconds. Added 3018 classes and 721 folders.
+[2020.03.13-21.50.30:192][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.03.13-21.50.30:296][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.13-21.50.30:302][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.03.13-21.50.30:428][  0]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.13-21.50.30:433][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.13-21.50.30:449][  0]LogSlate: Took 0.000424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.13-21.50.30:629][  0]LogRenderer: Reallocating scene render targets to support 812x508 Format 10 NumSamples 1 (Frame:1).
+[2020.03.13-21.50.30:817][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.03.13-21.50.30:817][  0]LogLoad: (Engine Initialization) Total time: 16.32 seconds
+[2020.03.13-21.50.30:817][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.13-21.50.30:842][  0]LogRawInputWindows: Warning: Found device 26 devices
+[2020.03.13-21.50.30:843][  0]LogRawInputWindows: Warning: Found device 26 devices
+[2020.03.13-21.50.30:843][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.03.13-21.50.30:843][  0]LogRawInputWindows: Warning: Found device 26 devices
+[2020.03.13-21.50.30:843][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2020.03.13-21.50.30:911][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.13-21.50.30:991][  1]LogAssetRegistry: Asset discovery search completed in 8.8255 seconds
+[2020.03.13-21.50.30:997][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.03.13-21.51.55:007][793]LogSlate: Took 0.000917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.13-21.51.55:091][793]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/VehicleAdvBP/Blueprints/PlayerHUD.PlayerHUD
+[2020.03.13-21.51.55:612][793]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.03.13-21.51.57:506][793]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.13-21.59.30:268][602]LogHttp: Warning: 0000025C944C3EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7486FF1D-4AD4-04C5-8F36-4FA7D081AC36%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=af0b6c2c47b9609470b03baa6bbcc653%7Cec171b9ba92c4a39b24e89e1b852ca31%7C740c3978-4fb6-4bd3-86b3-b43b687e320e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.13-21.59.30:268][602]LogHttp: Warning: 0000025C944C3EC0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.03.13-21.59.30:268][602]LogHttp: Warning: 0000025C944C3EC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25c39757f70 [can pipeline])
+[2020.03.13-21.59.30:268][602]LogHttp: Warning: 0000025C944C3EC0: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2020.03.13-21.59.30:268][602]LogHttp: Warning: 0000025C944C3EC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.5.92.97) port 443 (#2))
+[2020.03.13-21.59.30:268][602]LogHttp: Warning: 0000025C944C3EC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.13-21.59.30:268][602]LogHttp: Warning: 0000025C944C3EC0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.03.13-21.59.30:268][602]LogHttp: Warning: 0000025C944C3EC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.13-21.59.30:268][602]LogHttp: Warning: 0000025C944C3EC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.13-21.59.30:268][602]LogHttp: Warning: 0000025C944C3EC0: libcurl info message cache 7 (Closing connection 2)
+[2020.03.13-21.59.30:269][602]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7486FF1D-4AD4-04C5-8F36-4FA7D081AC36%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=af0b6c2c47b9609470b03baa6bbcc653%7Cec171b9ba92c4a39b24e89e1b852ca31%7C740c3978-4fb6-4bd3-86b3-b43b687e320e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.13-22.00.31:227][840]LogUObjectHash: Compacting FUObjectHashTables data took   8.71ms
+[2020.03.13-22.00.31:229][840]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.160
+[2020.03.13-22.00.31:232][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleAdvBP/Blueprints/PlayerHUD] ([1] browsable assets)...
+[2020.03.13-22.00.31:232][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/PlayerHUD]
+[2020.03.13-22.00.31:259][840]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/PlayerHUD_Auto1FC7983694E8E79F70C85B6BA58EF8696.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/PlayerHUD_Auto1.uasset'
+[2020.03.13-22.00.31:263][840]LogFileHelpers: Auto-saving content packages took 0.032
+[2020.03.13-22.04.55:319][967]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/PlayerHUDACBC1A904CABB1102FCA928C48C464D4.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/PlayerHUD.uasset'
+[2020.03.13-22.04.55:428][967]AssetCheck: New page: Asset Save: PlayerHUD
+[2020.03.13-22.04.55:428][967]LogContentValidation: Display: Validating WidgetBlueprint /Game/VehicleAdvBP/Blueprints/PlayerHUD.PlayerHUD
+[2020.03.13-22.06.30:340][431]LogSlate: Window 'PlayerHUD' being destroyed
+[2020.03.13-22.06.30:407][431]LogSlate: Window 'PlayerHUD' being destroyed
+[2020.03.13-22.06.30:419][431]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.13-22.06.30:419][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.13-22.06.30:528][431]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.13-22.06.30:529][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.13-22.06.31:654][467]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.03.13-22.06.33:486][468]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.13-22.06.34:771][504]LogSlate: Window 'VehicleBlueprint' being destroyed
+[2020.03.13-22.06.34:810][504]LogSlate: Window 'VehicleBlueprint' being destroyed
+[2020.03.13-22.06.34:811][504]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.13-22.06.34:811][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.13-22.06.37:839][626]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2020.03.13-22.06.39:435][626]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.13-22.06.40:302][626]LogUObjectHash: Compacting FUObjectHashTables data took  16.62ms
+[2020.03.13-22.06.40:478][626]LogUObjectHash: Compacting FUObjectHashTables data took   8.59ms
+[2020.03.13-22.06.40:591][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.03.13-22.06.41:533][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdvBP/Blueprints/VehicleAdvHud.VehicleAdvHud
+[2020.03.13-22.08.16:705][ 82]LogSlate: Window 'VehicleAdvHud' being destroyed
+[2020.03.13-22.08.16:754][ 82]LogSlate: Window 'VehicleAdvHud' being destroyed
+[2020.03.13-22.08.16:849][ 82]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.13-22.08.16:850][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.13-22.08.18:061][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.03.13-22.08.18:626][116]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap803E5FD0427BC149588D9CA81C4D04A0.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2020.03.13-22.08.20:497][116]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap_BuiltData3B5F13F54DEEB63D3434E68B6B55D815.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2020.03.13-22.08.20:571][116]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.13-22.08.20:571][116]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2020.03.13-22.08.20:571][116]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
+[2020.03.13-22.08.23:508][227]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.13-22.08.23:574][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.03.13-22.08.23:574][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.13-22.08.23:583][227]PIE: New page: PIE session: VehicleAdvExampleMap (Mar 13, 2020, 12:08:23 PM)
+[2020.03.13-22.08.23:588][227]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.13-22.08.23:592][227]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.13-22.08.23:593][227]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.03.13-22.08.23:919][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.325023s)
+[2020.03.13-22.08.23:920][227]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.03.13-22.08.23:920][227]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2020.03.13-22.08.23:921][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.327148s)
+[2020.03.13-22.08.23:966][227]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.03.13-22.08.23:967][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.13-22.08.23:968][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.13-22.08.23:968][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.13-22.08.23:968][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.13-22.08.23:968][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.13-22.08.23:968][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.13-22.08.23:968][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.13-22.08.23:968][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.13-22.08.23:968][227]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.13-22.08.23:968][227]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.13-22.08.23:981][227]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.13-22.08.23:982][227]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.03.13-22.08.23:982][227]LogAudioMixer: Display: Is Default: Yes
+[2020.03.13-22.08.23:982][227]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.13-22.08.23:982][227]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.13-22.08.23:982][227]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.13-22.08.23:982][227]LogAudioMixer: Display: Channel Order:
+[2020.03.13-22.08.23:982][227]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.13-22.08.23:982][227]LogAudioMixer: Display: 1: FrontRight
+[2020.03.13-22.08.24:019][227]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.03.13-22.08.24:022][227]LogInit: FAudioDevice initialized.
+[2020.03.13-22.08.24:042][227]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.03.13-22.08.24:070][227]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.03.13-17.08.24
+[2020.03.13-22.08.24:071][227]LogWorld: Bringing up level for play took: 0.016434
+[2020.03.13-22.08.24:071][227]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.03.13-22.08.24:084][227]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2020.03.13-22.08.24:090][227]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap -0.073
+[2020.03.13-22.08.24:090][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.03.13-22.08.24:091][227]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.24:092][227]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.24:740][228]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.24:740][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.24:752][229]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.24:752][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.24:769][230]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.24:769][230]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.24:826][231]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.24:827][231]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.24:919][232]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.24:919][232]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.24:978][233]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.24:978][233]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.24:997][234]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.24:997][234]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:016][235]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:016][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:033][236]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:033][236]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:045][237]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:045][237]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:063][238]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:063][238]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:082][239]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:082][239]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:099][240]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:099][240]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:120][241]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:120][241]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:134][242]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:134][242]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:146][243]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:146][243]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:164][244]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:164][244]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:182][245]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:182][245]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:210][246]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:210][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:240][247]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:240][247]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:263][248]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:263][248]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:278][249]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:278][249]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:294][250]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:294][250]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:312][251]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:312][251]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:329][252]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:329][252]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:345][253]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:345][253]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:362][254]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:362][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:378][255]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:378][255]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:394][256]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:394][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:413][257]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:413][257]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:430][258]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:430][258]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:446][259]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:446][259]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:460][260]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:460][260]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:478][261]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:478][261]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:496][262]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:497][262]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:514][263]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:514][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:532][264]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:532][264]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:550][265]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:550][265]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:567][266]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:567][266]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:585][267]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:586][267]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:601][268]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:602][268]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:614][269]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:614][269]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:632][270]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:632][270]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:647][271]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:647][271]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:665][272]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:665][272]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:682][273]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:682][273]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:698][274]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:698][274]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:715][275]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:715][275]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:732][276]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:733][276]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:754][277]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:755][277]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:772][278]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:772][278]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:789][279]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:790][279]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:809][280]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:809][280]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:828][281]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:828][281]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:849][282]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:849][282]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:871][283]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:871][283]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:889][284]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:889][284]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:907][285]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:908][285]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:927][286]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:927][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:946][287]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:946][287]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.25:976][288]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.25:977][288]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:001][289]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:002][289]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:020][290]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:021][290]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:038][291]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:038][291]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:059][292]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:059][292]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:079][293]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:080][293]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:100][294]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:100][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:121][295]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:121][295]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:141][296]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:141][296]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:163][297]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:163][297]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:183][298]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:183][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:204][299]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:204][299]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:222][300]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:222][300]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:242][301]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:242][301]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:266][302]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:266][302]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:291][303]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:291][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:310][304]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:310][304]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:329][305]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:329][305]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:351][306]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:351][306]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:371][307]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:372][307]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:389][308]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:389][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:410][309]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:410][309]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:429][310]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:429][310]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:450][311]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:450][311]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:472][312]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:472][312]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:490][313]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:490][313]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:508][314]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:509][314]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:530][315]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:530][315]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:551][316]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:551][316]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:570][317]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:570][317]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:591][318]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:591][318]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:611][319]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:611][319]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:630][320]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:631][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:651][321]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:651][321]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:670][322]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:670][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:687][323]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:687][323]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:707][324]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:707][324]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:726][325]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:726][325]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:747][326]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:748][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:770][327]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:770][327]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:787][328]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:788][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:807][329]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:807][329]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:826][330]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:826][330]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:848][331]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:848][331]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:870][332]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:870][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:888][333]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:888][333]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:908][334]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:908][334]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:925][335]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:925][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:944][336]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:945][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:964][337]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:965][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.26:984][338]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.26:984][338]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:004][339]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:004][339]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:022][340]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:022][340]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:041][341]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:041][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:059][342]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:059][342]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:080][343]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:080][343]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:101][344]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:101][344]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:123][345]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:123][345]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:143][346]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:143][346]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:160][347]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:161][347]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:182][348]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:182][348]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:207][349]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:207][349]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:224][350]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:225][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:244][351]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:244][351]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:264][352]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:264][352]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:294][353]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:294][353]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:315][354]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:315][354]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:337][355]LogScript: Warning: Script Msg: Modulo by zero
+[2020.03.13-22.08.27:337][355]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'K2Node_CustomEvent_Checkpoints' of length 0 in '/Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint_C:ExecuteUbergraph_VehicleBlueprint'!
+[2020.03.13-22.08.27:342][355]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.13-22.08.27:343][355]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.13-22.08.27:363][355]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.13-22.08.27:364][355]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.03.13-22.08.27:364][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-22.08.27:364][355]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.03.13-22.08.27:364][355]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.13-22.08.27:365][355]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.13-22.08.27:368][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.13-22.08.27:383][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.13-22.08.27:384][355]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.03.13-22.08.27:401][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.13-22.08.27:533][355]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.13-22.08.27:546][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.13-22.08.27:721][355]LogUObjectHash: Compacting FUObjectHashTables data took  29.43ms
+[2020.03.13-22.08.27:798][356]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.13-22.08.30:839][536]LogUObjectHash: Compacting FUObjectHashTables data took  11.99ms
+[2020.03.13-22.08.31:142][536]LogSlate: Window 'RocketRacer - Unreal Editor' being destroyed
+[2020.03.13-22.08.31:146][536]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.13-22.08.31:595][537]Cmd: QUIT_EDITOR
+[2020.03.13-22.08.31:596][537]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.03.13-22.08.31:637][537]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.03.13-22.08.31:638][537]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.13-22.08.32:466][537]LogExit: Preparing to exit.
+[2020.03.13-22.08.32:943][537]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.13-22.08.32:944][537]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.13-22.08.32:944][537]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.13-22.08.32:944][537]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.13-22.08.32:944][537]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.13-22.08.32:944][537]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.13-22.08.32:945][537]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.13-22.08.32:945][537]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.13-22.08.33:045][537]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.13-22.08.33:097][537]LogExit: Editor shut down
+[2020.03.13-22.08.33:098][537]LogExit: Transaction tracking system shut down
+[2020.03.13-22.08.33:835][537]LogExit: Object subsystem successfully closed.
+[2020.03.13-22.08.33:872][537]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.13-22.08.33:944][537]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (708)
+[2020.03.13-22.08.33:944][537]LogModuleManager: Shutting down and abandoning module Voice (706)
+[2020.03.13-22.08.33:944][537]LogModuleManager: Shutting down and abandoning module SequencerWidgets (704)
+[2020.03.13-22.08.33:945][537]LogModuleManager: Shutting down and abandoning module BlueprintGraph (702)
+[2020.03.13-22.08.33:945][537]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (700)
+[2020.03.13-22.08.33:945][537]LogModuleManager: Shutting down and abandoning module SceneOutliner (698)
+[2020.03.13-22.08.33:945][537]LogModuleManager: Shutting down and abandoning module AddContentDialog (696)
+[2020.03.13-22.08.33:945][537]LogModuleManager: Shutting down and abandoning module WidgetCarousel (695)
+[2020.03.13-22.08.33:945][537]LogModuleManager: Shutting down and abandoning module EditorWidgets (692)
+[2020.03.13-22.08.33:945][537]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2020.03.13-22.08.33:945][537]LogModuleManager: Shutting down and abandoning module StatsViewer (688)
+[2020.03.13-22.08.33:945][537]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (686)
+[2020.03.13-22.08.33:945][537]LogModuleManager: Shutting down and abandoning module FoliageEdit (684)
+[2020.03.13-22.08.33:945][537]LogModuleManager: Shutting down and abandoning module LandscapeEditor (682)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module MeshPaintMode (680)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (678)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module ActorPickerMode (676)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module GeometryMode (674)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module TextureAlignMode (672)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module BspMode (670)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (668)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (666)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module AutomationWorker (664)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module SteamVREditor (662)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module OculusMR (660)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (658)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (656)
+[2020.03.13-22.08.33:946][537]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (654)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module PlacementMode (653)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module MaterialEditor (652)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (648)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (646)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (644)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (642)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (640)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module WebMMedia (638)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (636)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (634)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module SequenceRecorder (633)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (630)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (628)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (626)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (624)
+[2020.03.13-22.08.33:947][537]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (622)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (620)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (618)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (616)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (614)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (612)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module CharacterAI (610)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module SmartSnapping (608)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module SessionServices (606)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module MeshPaint (604)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module ViewportSnapping (602)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module ViewportInteraction (600)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module ClothPainter (598)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (597)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module LogVisualizer (594)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module IntroTutorials (592)
+[2020.03.13-22.08.33:948][537]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (591)
+[2020.03.13-22.08.33:949][537]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (588)
+[2020.03.13-22.08.33:949][537]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (586)
+[2020.03.13-22.08.33:949][537]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (584)
+[2020.03.13-22.08.33:949][537]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (583)
+[2020.03.13-22.08.34:082][537]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (580)
+[2020.03.13-22.08.34:082][537]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (578)
+[2020.03.13-22.08.34:082][537]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (576)
+[2020.03.13-22.08.34:082][537]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (574)
+[2020.03.13-22.08.34:082][537]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (572)
+[2020.03.13-22.08.34:082][537]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (570)
+[2020.03.13-22.08.34:082][537]LogModuleManager: Shutting down and abandoning module InputBindingEditor (568)
+[2020.03.13-22.08.34:082][537]LogModuleManager: Shutting down and abandoning module MergeActors (566)
+[2020.03.13-22.08.34:082][537]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (564)
+[2020.03.13-22.08.34:083][537]LogModuleManager: Shutting down and abandoning module LocalizationService (563)
+[2020.03.13-22.08.34:083][537]LogModuleManager: Shutting down and abandoning module HardwareTargeting (560)
+[2020.03.13-22.08.34:083][537]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (558)
+[2020.03.13-22.08.34:083][537]LogModuleManager: Shutting down and abandoning module UndoHistory (556)
+[2020.03.13-22.08.34:083][537]LogModuleManager: Shutting down and abandoning module XmlParser (554)
+[2020.03.13-22.08.34:083][537]LogModuleManager: Shutting down and abandoning module Blutility (552)
+[2020.03.13-22.08.34:083][537]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (550)
+[2020.03.13-22.08.34:084][537]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (549)
+[2020.03.13-22.08.34:084][537]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (546)
+[2020.03.13-22.08.34:084][537]LogModuleManager: Shutting down and abandoning module SettingsEditor (544)
+[2020.03.13-22.08.34:084][537]LogModuleManager: Shutting down and abandoning module ProjectLauncher (542)
+[2020.03.13-22.08.34:084][537]LogModuleManager: Shutting down and abandoning module SessionFrontend (540)
+[2020.03.13-22.08.34:085][537]LogModuleManager: Shutting down and abandoning module ProfilerClient (538)
+[2020.03.13-22.08.34:085][537]LogModuleManager: Shutting down and abandoning module DeviceManager (536)
+[2020.03.13-22.08.34:085][537]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (535)
+[2020.03.13-22.08.34:118][537]LogModuleManager: Shutting down and abandoning module AutomationController (532)
+[2020.03.13-22.08.34:118][537]LogModuleManager: Shutting down and abandoning module AutomationWindow (530)
+[2020.03.13-22.08.34:118][537]LogModuleManager: Shutting down and abandoning module Layers (528)
+[2020.03.13-22.08.34:118][537]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (526)
+[2020.03.13-22.08.34:119][537]LogModuleManager: Shutting down and abandoning module DetailCustomizations (524)
+[2020.03.13-22.08.34:119][537]LogModuleManager: Shutting down and abandoning module PackagesDialog (522)
+[2020.03.13-22.08.34:120][537]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (520)
+[2020.03.13-22.08.34:120][537]LogModuleManager: Shutting down and abandoning module Persona (518)
+[2020.03.13-22.08.34:120][537]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (517)
+[2020.03.13-22.08.34:120][537]LogModuleManager: Shutting down and abandoning module AnimGraph (515)
+[2020.03.13-22.08.34:120][537]LogModuleManager: Shutting down and abandoning module Kismet (512)
+[2020.03.13-22.08.34:124][537]LogModuleManager: Shutting down and abandoning module KismetWidgets (511)
+[2020.03.13-22.08.34:124][537]LogModuleManager: Shutting down and abandoning module GraphEditor (508)
+[2020.03.13-22.08.34:127][537]LogModuleManager: Shutting down and abandoning module StructViewer (506)
+[2020.03.13-22.08.34:128][537]LogModuleManager: Shutting down and abandoning module ClassViewer (504)
+[2020.03.13-22.08.34:128][537]LogModuleManager: Shutting down and abandoning module Toolbox (502)
+[2020.03.13-22.08.34:128][537]LogModuleManager: Shutting down and abandoning module ModuleUI (500)
+[2020.03.13-22.08.34:128][537]LogModuleManager: Shutting down and abandoning module OutputLog (498)
+[2020.03.13-22.08.34:128][537]LogModuleManager: Shutting down and abandoning module GammaUI (496)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module Documentation (494)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module ToolMenus (492)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module LiveCoding (490)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module LevelSequence (488)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (486)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module MovieScene (484)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (482)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module LauncherPlatform (480)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module AnalyticsET (478)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module PortalServices (476)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module PortalRpc (474)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module MessagingRpc (472)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (470)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module AIModule (468)
+[2020.03.13-22.08.34:129][537]LogModuleManager: Shutting down and abandoning module GameplayDebugger (467)
+[2020.03.13-22.08.34:130][537]LogModuleManager: Shutting down and abandoning module AITestSuite (465)
+[2020.03.13-22.08.34:130][537]LogModuleManager: Shutting down and abandoning module NavigationSystem (463)
+[2020.03.13-22.08.34:130][537]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (460)
+[2020.03.13-22.08.34:141][537]LogModuleManager: Shutting down and abandoning module ProfilerService (458)
+[2020.03.13-22.08.34:360][537]LogModuleManager: Shutting down and abandoning module TaskGraph (456)
+[2020.03.13-22.08.34:361][537]LogModuleManager: Shutting down and abandoning module ScreenshotTools (454)
+[2020.03.13-22.08.34:361][537]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (452)
+[2020.03.13-22.08.34:361][537]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (450)
+[2020.03.13-22.08.34:361][537]LogModuleManager: Shutting down and abandoning module OculusEditor (448)
+[2020.03.13-22.08.34:361][537]LogModuleManager: Shutting down and abandoning module OculusInput (446)
+[2020.03.13-22.08.34:361][537]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (444)
+[2020.03.13-22.08.34:361][537]LogModuleManager: Shutting down and abandoning module EditableMesh (442)
+[2020.03.13-22.08.34:361][537]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (440)
+[2020.03.13-22.08.34:361][537]LogModuleManager: Shutting down and abandoning module CableComponent (438)
+[2020.03.13-22.08.34:361][537]LogModuleManager: Shutting down and abandoning module AudioCapture (436)
+[2020.03.13-22.08.34:361][537]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (435)
+[2020.03.13-22.08.34:362][537]LogModuleManager: Shutting down and abandoning module AssetTags (432)
+[2020.03.13-22.08.34:362][537]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (430)
+[2020.03.13-22.08.34:362][537]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (428)
+[2020.03.13-22.08.34:362][537]LogModuleManager: Shutting down and abandoning module AppleImageUtils (426)
+[2020.03.13-22.08.34:362][537]LogModuleManager: Shutting down and abandoning module AndroidPermission (424)
+[2020.03.13-22.08.34:362][537]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (422)
+[2020.03.13-22.08.34:362][537]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (420)
+[2020.03.13-22.08.34:362][537]LogModuleManager: Shutting down and abandoning module MediaCompositing (418)
+[2020.03.13-22.08.34:362][537]LogModuleManager: Shutting down and abandoning module ImgMedia (416)
+[2020.03.13-22.08.34:362][537]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (414)
+[2020.03.13-22.08.34:362][537]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (412)
+[2020.03.13-22.08.34:363][537]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (410)
+[2020.03.13-22.08.34:363][537]LogModuleManager: Shutting down and abandoning module RawInput (408)
+[2020.03.13-22.08.34:363][537]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (406)
+[2020.03.13-22.08.34:363][537]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (404)
+[2020.03.13-22.08.34:363][537]LogModuleManager: Shutting down and abandoning module BackChannel (402)
+[2020.03.13-22.08.34:363][537]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (400)
+[2020.03.13-22.08.34:363][537]LogModuleManager: Shutting down and abandoning module AutomationUtils (398)
+[2020.03.13-22.08.34:363][537]LogModuleManager: Shutting down and abandoning module AlembicImporter (396)
+[2020.03.13-22.08.34:363][537]LogModuleManager: Shutting down and abandoning module AlembicLibrary (395)
+[2020.03.13-22.08.34:363][537]LogModuleManager: Shutting down and abandoning module GeometryCache (394)
+[2020.03.13-22.08.34:363][537]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (393)
+[2020.03.13-22.08.34:364][537]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (388)
+[2020.03.13-22.08.34:364][537]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (386)
+[2020.03.13-22.08.34:364][537]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (384)
+[2020.03.13-22.08.34:364][537]LogModuleManager: Shutting down and abandoning module PluginBrowser (382)
+[2020.03.13-22.08.34:364][537]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (380)
+[2020.03.13-22.08.34:364][537]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (378)
+[2020.03.13-22.08.34:364][537]LogModuleManager: Shutting down and abandoning module CurveEditorTools (376)
+[2020.03.13-22.08.34:364][537]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (374)
+[2020.03.13-22.08.34:364][537]LogModuleManager: Shutting down and abandoning module CryptoKeys (372)
+[2020.03.13-22.08.34:364][537]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (370)
+[2020.03.13-22.08.34:365][537]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (368)
+[2020.03.13-22.08.34:365][537]LogModuleManager: Shutting down and abandoning module UObjectPlugin (366)
+[2020.03.13-22.08.34:365][537]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (364)
+[2020.03.13-22.08.34:365][537]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (362)
+[2020.03.13-22.08.34:365][537]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (360)
+[2020.03.13-22.08.34:365][537]LogModuleManager: Shutting down and abandoning module GitSourceControl (358)
+[2020.03.13-22.08.34:365][537]LogModuleManager: Shutting down and abandoning module SourceControl (357)
+[2020.03.13-22.08.34:365][537]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (354)
+[2020.03.13-22.08.34:365][537]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (352)
+[2020.03.13-22.08.34:365][537]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (350)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (348)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (346)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (344)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (342)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module Paper2DEditor (340)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module RocketRacer (338)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.03.13-22.08.34:366][537]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.03.13-22.08.34:468][537]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.03.13-22.08.34:568][537]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.03.13-22.08.34:568][537]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.03.13-22.08.34:568][537]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.03.13-22.08.34:568][537]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.03.13-22.08.34:568][537]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.03.13-22.08.34:568][537]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.03.13-22.08.34:568][537]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.03.13-22.08.34:569][537]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.03.13-22.08.34:569][537]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.03.13-22.08.34:569][537]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.03.13-22.08.34:569][537]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.13-22.08.34:569][537]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.03.13-22.08.34:570][537]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.03.13-22.08.34:570][537]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.03.13-22.08.34:570][537]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.03.13-22.08.34:570][537]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.03.13-22.08.34:570][537]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.03.13-22.08.34:570][537]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.03.13-22.08.34:570][537]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.03.13-22.08.34:572][537]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.03.13-22.08.34:573][537]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.03.13-22.08.34:573][537]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.03.13-22.08.34:574][537]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.03.13-22.08.34:574][537]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.03.13-22.08.34:576][537]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.03.13-22.08.34:579][537]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.03.13-22.08.34:579][537]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.03.13-22.08.34:579][537]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.03.13-22.08.34:579][537]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.03.13-22.08.34:579][537]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.03.13-22.08.34:585][537]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.03.13-22.08.34:585][537]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.03.13-22.08.34:585][537]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.03.13-22.08.34:585][537]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.03.13-22.08.34:585][537]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.03.13-22.08.34:585][537]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.03.13-22.08.34:586][537]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.03.13-22.08.34:587][537]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.03.13-22.08.34:587][537]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.03.13-22.08.34:587][537]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.03.13-22.08.34:587][537]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.03.13-22.08.34:587][537]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.03.13-22.08.34:587][537]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.03.13-22.08.34:587][537]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.03.13-22.08.34:587][537]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.03.13-22.08.34:587][537]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.03.13-22.08.34:587][537]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.03.13-22.08.34:587][537]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.03.13-22.08.34:588][537]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.03.13-22.08.34:588][537]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.03.13-22.08.34:588][537]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.03.13-22.08.34:588][537]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.03.13-22.08.34:588][537]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.03.13-22.08.34:588][537]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.03.13-22.08.34:588][537]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.03.13-22.08.34:588][537]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.03.13-22.08.34:588][537]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.03.13-22.08.34:588][537]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.03.13-22.08.34:589][537]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.03.13-22.08.34:589][537]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.03.13-22.08.34:589][537]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.03.13-22.08.34:589][537]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.03.13-22.08.34:589][537]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.03.13-22.08.34:593][537]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.03.13-22.08.34:593][537]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.03.13-22.08.34:593][537]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.03.13-22.08.34:593][537]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.03.13-22.08.34:593][537]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.03.13-22.08.34:593][537]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.03.13-22.08.34:593][537]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.03.13-22.08.34:594][537]LogDerivedDataCache: Shutdown
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.03.13-22.08.34:594][537]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.03.13-22.08.34:595][537]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.03.13-22.08.34:595][537]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.03.13-22.08.34:595][537]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.03.13-22.08.34:595][537]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.03.13-22.08.34:595][537]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.03.13-22.08.34:595][537]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.03.13-22.08.34:595][537]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.03.13-22.08.34:595][537]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.03.13-22.08.34:595][537]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.03.13-22.08.34:595][537]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.03.13-22.08.34:596][537]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.03.13-22.08.34:596][537]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.03.13-22.08.34:597][537]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.03.13-22.08.34:597][537]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.03.13-22.08.34:599][537]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.03.13-22.08.34:601][537]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.03.13-22.08.34:601][537]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.03.13-22.08.34:601][537]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.03.13-22.08.34:601][537]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.13-22.08.34:602][537]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.03.13-22.08.34:602][537]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.03.13-22.08.34:602][537]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.03.13-22.08.34:602][537]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.03.13-22.08.34:605][537]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.03.13-22.08.34:635][537]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.03.13-22.08.34:636][537]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.03.13-22.08.34:636][537]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.03.13-22.08.34:637][537]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.03.13-22.08.34:637][537]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.03.13-22.08.34:637][537]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.03.13-22.08.34:637][537]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.03.13-22.08.34:637][537]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.03.13-22.08.34:637][537]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.03.13-22.08.34:637][537]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.03.13-22.08.34:637][537]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.03.13-22.08.34:637][537]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.03.13-22.08.34:637][537]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.03.13-22.08.34:637][537]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.13-22.08.34:638][537]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.03.13-22.08.34:638][537]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.03.13-22.08.34:638][537]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.03.13-22.08.34:638][537]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.03.13-22.08.34:638][537]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.03.13-22.08.34:642][537]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.03.13-22.08.34:642][537]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.03.13-22.08.34:656][537]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.03.13-22.08.34:657][537]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.13-22.08.34:657][537]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7486FF1D-4AD4-04C5-8F36-4FA7D081AC36%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=af0b6c2c47b9609470b03baa6bbcc653%7Cec171b9ba92c4a39b24e89e1b852ca31%7C740c3978-4fb6-4bd3-86b3-b43b687e320e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.03.13-22.08.34:682][537]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.03.13-22.08.34:686][537]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.03.13-22.08.34:691][537]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.03.13-22.08.34:694][537]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.03.13-22.08.34:694][537]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.03.13-22.08.34:694][537]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.03.13-22.08.34:695][537]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.03.13-22.08.34:695][537]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.03.13-22.08.34:695][537]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.03.13-22.08.34:696][537]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.03.13-22.08.34:696][537]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.03.13-22.08.34:696][537]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.13-22.08.34:696][537]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.13-22.08.34:699][537]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.13-22.08.34:700][537]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.13-22.08.34:700][537]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.13-22.08.34:700][537]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.13-22.08.34:700][537]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.13-22.08.34:702][537]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.13-22.08.34:702][537]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.13-22.08.34:702][537]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.13-22.08.34:702][537]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.13-22.08.34:702][537]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.13-22.08.34:703][537]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.13-22.08.34:703][537]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.13-22.08.34:703][537]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.13-22.08.34:703][537]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.13-22.08.34:703][537]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.13-22.08.34:703][537]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.13-22.08.34:703][537]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.13-22.08.34:705][537]LogD3D11RHI: Shutdown
+[2020.03.13-22.08.34:706][537]LogD3D11RHI: CleanupD3DDevice
+[2020.03.13-22.08.34:745][537]LogExit: Exiting.
+[2020.03.13-22.08.34:759][537]Log file closed, 03/13/20 17:08:34
