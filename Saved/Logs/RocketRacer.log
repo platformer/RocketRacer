@@ -3616,3 +3616,399 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.11-07.56.31:873][993]LogEditorActor: Deleted Actor: StaticMeshActor
 [2020.04.11-07.56.31:931][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
 [2020.04.11-07.56.31:936][993]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2020.04.11-07.56.57:840][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.04.11-07.57.00:228][181]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap744A8D764CC321860737A8A11D0F767C.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2020.04.11-07.57.05:888][181]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap_BuiltData908DCFE749D3478EE73D1DBAE5A2C745.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2020.04.11-07.57.05:942][181]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.11-07.57.05:942][181]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2020.04.11-07.57.05:942][181]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
+[2020.04.11-07.57.11:991][244]LogActorFactory: Actor Factory created RampLarge
+[2020.04.11-07.57.12:932][281]LogActorFactory: Actor Factory created RampLarge
+[2020.04.11-07.59.09:567][501]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-07.59.09:596][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-07.59.09:596][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-07.59.09:596][501]PIE: New page: PIE session: VehicleAdvExampleMap (Apr 10, 2020, 9:59:09 PM)
+[2020.04.11-07.59.09:596][501]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-07.59.11:080][501]LogPlayLevel: PIE: StaticDuplicateObject took: (1.483979s)
+[2020.04.11-07.59.11:081][501]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.04.11-07.59.11:082][501]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2020.04.11-07.59.11:082][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (1.485316s)
+[2020.04.11-07.59.11:122][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.04.11-07.59.11:125][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-07.59.11:125][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-07.59.11:125][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-07.59.11:125][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-07.59.11:125][501]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-07.59.11:125][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-07.59.11:125][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-07.59.11:125][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-07.59.11:125][501]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-07.59.11:126][501]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-07.59.11:134][501]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-07.59.11:134][501]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-07.59.11:134][501]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-07.59.11:134][501]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-07.59.11:134][501]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-07.59.11:134][501]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-07.59.11:134][501]LogAudioMixer: Display: Channel Order:
+[2020.04.11-07.59.11:134][501]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-07.59.11:134][501]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-07.59.11:153][501]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-07.59.11:155][501]LogInit: FAudioDevice initialized.
+[2020.04.11-07.59.11:165][501]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.04.11-07.59.11:183][501]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2020.04.11-02.59.11
+[2020.04.11-07.59.11:183][501]LogWorld: Bringing up level for play took: 0.013158
+[2020.04.11-07.59.11:183][501]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.04.11-07.59.11:191][501]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.808
+[2020.04.11-07.59.11:191][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-07.59.18:389][905]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-07.59.18:393][905]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-07.59.18:414][905]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-07.59.18:414][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-07.59.18:415][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-07.59.18:415][905]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-07.59.18:415][905]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-07.59.18:416][905]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-07.59.18:420][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-07.59.18:432][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-07.59.18:432][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-07.59.18:441][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-07.59.18:496][905]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-07.59.18:500][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-07.59.18:522][905]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.04.11-07.59.18:547][906]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.04.11-07.59.32:674][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RampLarge)
+[2020.04.11-07.59.38:993][993]Cmd: TRANSACTION UNDO
+[2020.04.11-07.59.38:993][993]LogEditorTransaction: Undo Set Rotation
+[2020.04.11-07.59.52:076][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RampLarge)
+[2020.04.11-07.59.53:094][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RampLarge)
+[2020.04.11-07.59.54:228][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RampLarge)
+[2020.04.11-08.00.12:700][699]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-08.00.12:731][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.00.12:731][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-08.00.12:731][699]PIE: New page: PIE session: VehicleAdvExampleMap (Apr 10, 2020, 10:00:12 PM)
+[2020.04.11-08.00.12:731][699]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.00.14:695][699]LogPlayLevel: PIE: StaticDuplicateObject took: (1.962960s)
+[2020.04.11-08.00.14:696][699]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.04.11-08.00.14:696][699]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2020.04.11-08.00.14:696][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (1.964329s)
+[2020.04.11-08.00.14:742][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.04.11-08.00.14:745][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-08.00.14:745][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-08.00.14:745][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-08.00.14:745][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-08.00.14:745][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-08.00.14:745][699]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-08.00.14:745][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-08.00.14:745][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-08.00.14:746][699]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-08.00.14:746][699]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-08.00.14:754][699]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-08.00.14:754][699]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.00.14:754][699]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-08.00.14:754][699]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-08.00.14:754][699]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-08.00.14:754][699]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-08.00.14:754][699]LogAudioMixer: Display: Channel Order:
+[2020.04.11-08.00.14:754][699]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-08.00.14:754][699]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-08.00.14:774][699]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.00.14:776][699]LogInit: FAudioDevice initialized.
+[2020.04.11-08.00.14:785][699]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.04.11-08.00.14:802][699]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2020.04.11-03.00.14
+[2020.04.11-08.00.14:803][699]LogWorld: Bringing up level for play took: 0.012824
+[2020.04.11-08.00.14:803][699]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.04.11-08.00.14:811][699]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.428
+[2020.04.11-08.00.14:811][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.00.33:798][789]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.00.33:804][789]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-08.00.33:834][789]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-08.00.33:835][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.00.33:835][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.00.33:835][789]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.00.33:835][789]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.00.33:836][789]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-08.00.33:840][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.00.33:851][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-08.00.33:851][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.00.33:860][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.00.33:913][789]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.00.33:918][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.00.33:948][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.04.11-08.00.33:999][790]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.04.11-08.00.43:016][287]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-08.00.43:047][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.00.43:047][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-08.00.43:047][287]PIE: New page: PIE session: VehicleAdvExampleMap (Apr 10, 2020, 10:00:43 PM)
+[2020.04.11-08.00.43:048][287]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.00.45:091][287]LogPlayLevel: PIE: StaticDuplicateObject took: (2.043181s)
+[2020.04.11-08.00.45:091][287]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.04.11-08.00.45:092][287]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2020.04.11-08.00.45:092][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (2.044531s)
+[2020.04.11-08.00.45:134][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.04.11-08.00.45:136][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-08.00.45:136][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-08.00.45:136][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-08.00.45:136][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-08.00.45:136][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-08.00.45:136][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-08.00.45:136][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-08.00.45:136][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-08.00.45:136][287]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-08.00.45:136][287]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-08.00.45:144][287]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-08.00.45:144][287]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.00.45:144][287]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-08.00.45:144][287]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-08.00.45:144][287]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-08.00.45:144][287]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-08.00.45:144][287]LogAudioMixer: Display: Channel Order:
+[2020.04.11-08.00.45:144][287]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-08.00.45:144][287]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-08.00.45:163][287]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.00.45:165][287]LogInit: FAudioDevice initialized.
+[2020.04.11-08.00.45:174][287]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.04.11-08.00.45:191][287]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2020.04.11-03.00.45
+[2020.04.11-08.00.45:191][287]LogWorld: Bringing up level for play took: 0.012772
+[2020.04.11-08.00.45:191][287]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.04.11-08.00.45:199][287]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 1.816
+[2020.04.11-08.00.45:200][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.00.50:602][590]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.00.50:604][590]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-08.00.50:633][590]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-08.00.50:633][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.00.50:634][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.00.50:634][590]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.00.50:634][590]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.00.50:634][590]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-08.00.50:637][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.00.50:650][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-08.00.50:651][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.00.50:660][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.00.50:722][590]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.00.50:728][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.00.50:761][590]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.04.11-08.00.50:812][591]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.04.11-08.00.56:379][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RampLarge)
+[2020.04.11-08.01.04:236][298]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-08.01.04:270][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.01.04:271][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-08.01.04:271][298]PIE: New page: PIE session: VehicleAdvExampleMap (Apr 10, 2020, 10:01:04 PM)
+[2020.04.11-08.01.04:271][298]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.01.06:421][298]LogPlayLevel: PIE: StaticDuplicateObject took: (2.150112s)
+[2020.04.11-08.01.06:421][298]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.04.11-08.01.06:422][298]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2020.04.11-08.01.06:422][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (2.151549s)
+[2020.04.11-08.01.06:465][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.04.11-08.01.06:467][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-08.01.06:467][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-08.01.06:467][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-08.01.06:467][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-08.01.06:467][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-08.01.06:467][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-08.01.06:467][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-08.01.06:467][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-08.01.06:468][298]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-08.01.06:468][298]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-08.01.06:477][298]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-08.01.06:477][298]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.01.06:477][298]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-08.01.06:477][298]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-08.01.06:477][298]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-08.01.06:477][298]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-08.01.06:477][298]LogAudioMixer: Display: Channel Order:
+[2020.04.11-08.01.06:477][298]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-08.01.06:477][298]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-08.01.06:497][298]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.01.06:499][298]LogInit: FAudioDevice initialized.
+[2020.04.11-08.01.06:510][298]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.04.11-08.01.06:528][298]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2020.04.11-03.01.06
+[2020.04.11-08.01.06:528][298]LogWorld: Bringing up level for play took: 0.013082
+[2020.04.11-08.01.06:528][298]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.04.11-08.01.06:535][298]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 3.152
+[2020.04.11-08.01.06:536][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.03.39:326][173]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.03.39:334][173]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-08.03.39:354][173]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-08.03.39:354][173]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.03.39:355][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.03.39:355][173]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.03.39:355][173]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.03.39:355][173]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-08.03.39:358][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.03.39:374][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-08.03.39:375][173]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.03.39:384][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.03.39:444][173]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.03.39:450][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.03.39:485][173]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.04.11-08.03.39:540][174]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.04.11-08.04.49:343][740]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-08.04.49:375][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.04.49:376][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-08.04.49:376][740]PIE: New page: PIE session: VehicleAdvExampleMap (Apr 10, 2020, 10:04:49 PM)
+[2020.04.11-08.04.49:376][740]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.04.51:412][740]LogPlayLevel: PIE: StaticDuplicateObject took: (2.036602s)
+[2020.04.11-08.04.51:414][740]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.04.11-08.04.51:414][740]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2020.04.11-08.04.51:414][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (2.038202s)
+[2020.04.11-08.04.51:479][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.04.11-08.04.51:482][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-08.04.51:482][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-08.04.51:482][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-08.04.51:482][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-08.04.51:482][740]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-08.04.51:482][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-08.04.51:482][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-08.04.51:482][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-08.04.51:483][740]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-08.04.51:483][740]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-08.04.51:492][740]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-08.04.51:492][740]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.04.51:492][740]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-08.04.51:492][740]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-08.04.51:492][740]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-08.04.51:492][740]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-08.04.51:492][740]LogAudioMixer: Display: Channel Order:
+[2020.04.11-08.04.51:492][740]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-08.04.51:492][740]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-08.04.51:513][740]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.04.51:514][740]LogInit: FAudioDevice initialized.
+[2020.04.11-08.04.51:527][740]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.04.11-08.04.51:544][740]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2020.04.11-03.04.51
+[2020.04.11-08.04.51:545][740]LogWorld: Bringing up level for play took: 0.012818
+[2020.04.11-08.04.51:545][740]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.04.11-08.04.51:553][740]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 2.169
+[2020.04.11-08.04.51:553][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.04.56:841][ 35]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.04.56:854][ 35]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-08.04.56:874][ 35]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-08.04.56:874][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.04.56:875][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.04.56:875][ 35]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.04.56:875][ 35]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.04.56:875][ 35]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-08.04.56:878][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.04.56:893][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-08.04.56:893][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.04.56:902][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.04.56:963][ 35]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.04.56:968][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.04.56:996][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.04.11-08.04.57:048][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.04.11-08.05.15:718][957]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-08.05.15:750][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.05.15:750][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-08.05.15:750][957]PIE: New page: PIE session: VehicleAdvExampleMap (Apr 10, 2020, 10:05:15 PM)
+[2020.04.11-08.05.15:750][957]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.05.17:879][957]LogPlayLevel: PIE: StaticDuplicateObject took: (2.128081s)
+[2020.04.11-08.05.17:880][957]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.04.11-08.05.17:880][957]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2020.04.11-08.05.17:880][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (2.129468s)
+[2020.04.11-08.05.17:930][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.04.11-08.05.17:933][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-08.05.17:933][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-08.05.17:933][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-08.05.17:933][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-08.05.17:933][957]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-08.05.17:933][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-08.05.17:933][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-08.05.17:933][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-08.05.17:933][957]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-08.05.17:933][957]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-08.05.17:942][957]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-08.05.17:942][957]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.05.17:942][957]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-08.05.17:942][957]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-08.05.17:942][957]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-08.05.17:942][957]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-08.05.17:942][957]LogAudioMixer: Display: Channel Order:
+[2020.04.11-08.05.17:942][957]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-08.05.17:942][957]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-08.05.17:963][957]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.05.17:964][957]LogInit: FAudioDevice initialized.
+[2020.04.11-08.05.17:973][957]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.04.11-08.05.17:991][957]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2020.04.11-03.05.17
+[2020.04.11-08.05.17:992][957]LogWorld: Bringing up level for play took: 0.014062
+[2020.04.11-08.05.17:992][957]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.04.11-08.05.17:999][957]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 2.616
+[2020.04.11-08.05.17:999][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.07.06:809][261]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.07.06:814][261]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-08.07.06:834][261]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-08.07.06:834][261]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.07.06:835][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.07.06:835][261]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.07.06:835][261]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.07.06:835][261]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-08.07.06:839][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.07.06:850][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-08.07.06:850][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.07.06:859][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.07.06:922][261]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.07.06:927][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.07.06:953][261]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.04.11-08.07.07:008][262]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.04.11-08.07.16:676][834]LogEditorViewport: Clicking on Actor (LMB): TrackGenerator_C (TrackMain)
+[2020.04.11-08.07.48:136][380]LogEditorViewport: Clicking on Actor (LMB): TrackGenerator_C (TrackMain)
+[2020.04.11-08.08.01:978][146]Cmd: TRANSACTION UNDO
+[2020.04.11-08.08.01:978][146]LogEditorTransaction: Undo Move Actors
+[2020.04.11-08.08.07:605][389]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-08.08.07:628][389]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.08.07:629][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-08.08.07:629][389]PIE: New page: PIE session: VehicleAdvExampleMap (Apr 10, 2020, 10:08:07 PM)
+[2020.04.11-08.08.07:629][389]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.08.09:491][389]LogPlayLevel: PIE: StaticDuplicateObject took: (1.862563s)
+[2020.04.11-08.08.09:493][389]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.04.11-08.08.09:493][389]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2020.04.11-08.08.09:493][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (1.864120s)
+[2020.04.11-08.08.09:542][389]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.04.11-08.08.09:547][389]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-08.08.09:547][389]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-08.08.09:547][389]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-08.08.09:547][389]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-08.08.09:547][389]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-08.08.09:547][389]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-08.08.09:547][389]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-08.08.09:547][389]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-08.08.09:548][389]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-08.08.09:548][389]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-08.08.09:556][389]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-08.08.09:556][389]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.08.09:556][389]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-08.08.09:556][389]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-08.08.09:556][389]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-08.08.09:556][389]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-08.08.09:556][389]LogAudioMixer: Display: Channel Order:
+[2020.04.11-08.08.09:556][389]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-08.08.09:556][389]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-08.08.09:577][389]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-08.08.09:578][389]LogInit: FAudioDevice initialized.
+[2020.04.11-08.08.09:592][389]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.04.11-08.08.09:610][389]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2020.04.11-03.08.09
+[2020.04.11-08.08.09:610][389]LogWorld: Bringing up level for play took: 0.014015
+[2020.04.11-08.08.09:610][389]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.04.11-08.08.09:617][389]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 2.235
+[2020.04.11-08.08.09:618][389]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.11.32:794][147]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.11.32:805][147]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-08.11.32:824][147]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-08.11.32:824][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.11.32:825][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.11.32:825][147]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-08.11.32:825][147]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.11.32:825][147]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-08.11.32:828][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.11.32:841][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-08.11.32:841][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-08.11.32:852][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-08.11.32:915][147]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-08.11.32:921][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-08.11.32:953][147]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.04.11-08.11.33:011][148]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.04.11-08.11.39:761][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.04.11-08.11.41:772][515]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap9F1BA4D04F21B216872D6EBDD0D807FD.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2020.04.11-08.11.45:882][515]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap_BuiltData3CBD7BA34455EFE6B1C8208431F8C7AB.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2020.04.11-08.11.45:926][515]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.11-08.11.45:926][515]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2020.04.11-08.11.45:926][515]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
