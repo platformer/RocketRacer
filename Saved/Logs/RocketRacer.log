@@ -890,3 +890,193 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.11-18.20.32:698][263]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.11-18.20.32:699][263]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
 [2020.04.11-18.20.32:699][263]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
+[2020.04.11-18.26.36:636][714]LogHttp: Warning: 00000273C4B51580: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58142630-40D2-15FF-94DF-CE9AC22FAB86%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=af0b6c2c47b9609470b03baa6bbcc653%7Cec171b9ba92c4a39b24e89e1b852ca31%7C740c3978-4fb6-4bd3-86b3-b43b687e320e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.11-18.26.36:636][714]LogHttp: Warning: 00000273C4B51580: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.04.11-18.26.36:636][714]LogHttp: Warning: 00000273C4B51580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27379e97f70 [can pipeline])
+[2020.04.11-18.26.36:636][714]LogHttp: Warning: 00000273C4B51580: libcurl info message cache 1 (Re-using existing connection! (#11) with host datarouter.ol.epicgames.com)
+[2020.04.11-18.26.36:637][714]LogHttp: Warning: 00000273C4B51580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.223.158.41) port 443 (#11))
+[2020.04.11-18.26.36:637][714]LogHttp: Warning: 00000273C4B51580: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.04.11-18.26.36:637][714]LogHttp: Warning: 00000273C4B51580: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.04.11-18.26.36:637][714]LogHttp: Warning: 00000273C4B51580: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.04.11-18.26.36:637][714]LogHttp: Warning: 00000273C4B51580: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.04.11-18.26.36:637][714]LogHttp: Warning: 00000273C4B51580: libcurl info message cache 7 (Closing connection 11)
+[2020.04.11-18.26.36:637][714]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58142630-40D2-15FF-94DF-CE9AC22FAB86%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=af0b6c2c47b9609470b03baa6bbcc653%7Cec171b9ba92c4a39b24e89e1b852ca31%7C740c3978-4fb6-4bd3-86b3-b43b687e320e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.11-18.33.58:318][473]LogStaticMesh: Building static mesh RoadSegment_01...
+[2020.04.11-18.33.58:383][473]LogStaticMesh: Built static mesh [0.07s] /Game/VehicleAdv/ArenaMesh/RoadSegment_01.RoadSegment_01
+[2020.04.11-18.33.58:493][475]LogActorFactory: Actor Factory created RoadSegment_01
+[2020.04.11-18.33.59:688][539]LogActorFactory: Actor Factory created RoadSegment_01
+[2020.04.11-18.34.05:662][881]Cmd: DELETE
+[2020.04.11-18.34.05:662][881]Cmd: ACTOR DELETE
+[2020.04.11-18.34.05:680][881]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.11-18.34.05:711][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.04.11-18.34.05:720][881]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.04.11-18.34.38:061][748]LogStaticMesh: Building static mesh pole...
+[2020.04.11-18.34.38:164][748]LogStaticMesh: Built static mesh [0.10s] /Game/VehicleAdv/ArenaMesh/pole.pole
+[2020.04.11-18.34.38:285][750]LogActorFactory: Actor Factory created pole
+[2020.04.11-18.34.39:611][821]LogActorFactory: Actor Factory created pole
+[2020.04.11-18.35.34:515][825]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-18.35.34:548][825]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-18.35.34:548][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-18.35.34:548][825]PIE: New page: PIE session: VehicleAdvExampleMap (Apr 11, 2020, 8:35:34 AM)
+[2020.04.11-18.35.34:548][825]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-18.35.35:982][825]LogPlayLevel: PIE: StaticDuplicateObject took: (1.433678s)
+[2020.04.11-18.35.35:982][825]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.04.11-18.35.35:983][825]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2020.04.11-18.35.35:983][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (1.434941s)
+[2020.04.11-18.35.36:004][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.04.11-18.35.36:006][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-18.35.36:006][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-18.35.36:006][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-18.35.36:006][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-18.35.36:006][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-18.35.36:006][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-18.35.36:006][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-18.35.36:006][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-18.35.36:006][825]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-18.35.36:006][825]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-18.35.36:016][825]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-18.35.36:016][825]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-18.35.36:016][825]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-18.35.36:016][825]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-18.35.36:016][825]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-18.35.36:016][825]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-18.35.36:016][825]LogAudioMixer: Display: Channel Order:
+[2020.04.11-18.35.36:016][825]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-18.35.36:016][825]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-18.35.36:035][825]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.04.11-18.35.36:036][825]LogInit: FAudioDevice initialized.
+[2020.04.11-18.35.36:044][825]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.04.11-18.35.36:061][825]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 60) at 2020.04.11-13.35.36
+[2020.04.11-18.35.36:061][825]LogWorld: Bringing up level for play took: 0.012188
+[2020.04.11-18.35.36:061][825]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.04.11-18.35.36:068][825]PIE: Play in editor start time for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap 0.553
+[2020.04.11-18.35.36:068][825]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-18.38.40:044][301]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-18.38.40:064][301]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-18.38.40:084][301]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-18.38.40:084][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-18.38.40:084][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-18.38.40:084][301]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.04.11-18.38.40:084][301]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-18.38.40:085][301]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-18.38.40:089][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-18.38.40:103][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-18.38.40:103][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap' with GeneratedClass '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap_C' with ClassGeneratedBy '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.VehicleAdvExampleMap'
+[2020.04.11-18.38.40:110][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-18.38.40:153][301]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-18.38.40:157][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-18.38.40:175][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.04.11-18.38.40:217][302]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.04.11-18.38.46:730][655]LogEditorViewport: Clicking on Actor (LMB): TrackGenerator_C (TrackMain)
+[2020.04.11-18.39.17:957][245]LogActorFactory: Actor Factory created StraightHalf
+[2020.04.11-18.39.19:041][304]LogActorFactory: Actor Factory created StraightHalf
+[2020.04.11-18.39.28:031][803]Cmd: TRANSACTION UNDO
+[2020.04.11-18.39.28:032][803]LogEditorTransaction: Undo Move Actors
+[2020.04.11-18.40.01:957][695]LogEditorViewport: Clicking on Actor (LMB): DeathPlane_C (DeathPlaneMain)
+[2020.04.11-18.40.03:292][770]Cmd: TRANSACTION UNDO
+[2020.04.11-18.40.03:292][770]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.11-18.41.05:814][314]LogEditorViewport: Clicking on Actor (LMB): TrackGenerator_C (TrackMain)
+[2020.04.11-18.41.06:841][366]LogEditorViewport: Clicking on Actor (LMB): DeathPlane_C (DeathPlaneMain)
+[2020.04.11-18.41.14:349][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StraightHalf)
+[2020.04.11-18.41.15:346][851]Cmd: EDIT COPY
+[2020.04.11-18.41.15:550][861]Cmd: EDIT PASTE
+[2020.04.11-18.42.04:529][700]Cmd: DELETE
+[2020.04.11-18.42.04:529][700]Cmd: ACTOR DELETE
+[2020.04.11-18.42.04:551][700]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.11-18.42.04:592][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.04.11-18.42.04:596][700]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2020.04.11-18.48.36:252][275]LogHttp: Warning: 0000027339B52C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58142630-40D2-15FF-94DF-CE9AC22FAB86%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=af0b6c2c47b9609470b03baa6bbcc653%7Cec171b9ba92c4a39b24e89e1b852ca31%7C740c3978-4fb6-4bd3-86b3-b43b687e320e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.11-18.48.36:253][275]LogHttp: Warning: 0000027339B52C00: request failed, libcurl error: 28 (Timeout was reached)
+[2020.04.11-18.48.36:253][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 0 (Connection 19 seems to be dead!)
+[2020.04.11-18.48.36:253][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 1 (Closing connection 19)
+[2020.04.11-18.48.36:253][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.04.11-18.48.36:253][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 3 (  Trying 3.232.217.203...)
+[2020.04.11-18.48.36:254][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.04.11-18.48.36:254][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (3.232.217.203) port 443 (#20))
+[2020.04.11-18.48.36:254][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2020.04.11-18.48.36:254][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.04.11-18.48.36:254][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 8 (SSL re-using session ID)
+[2020.04.11-18.48.36:254][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.04.11-18.48.36:254][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 10 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.04.11-18.48.36:254][275]LogHttp: Warning: 0000027339B52C00: libcurl info message cache 11 (Closing connection 20)
+[2020.04.11-18.48.36:591][276]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58142630-40D2-15FF-94DF-CE9AC22FAB86%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=af0b6c2c47b9609470b03baa6bbcc653%7Cec171b9ba92c4a39b24e89e1b852ca31%7C740c3978-4fb6-4bd3-86b3-b43b687e320e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.11-18.50.29:670][910]LogEditorViewport: Clicking on Actor (LMB): DeathPlane_C (DeathPlaneMain)
+[2020.04.11-18.50.57:473][505]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape10)
+[2020.04.11-18.51.15:317][449]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.04.11-18.51.55:487][593]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape7)
+[2020.04.11-18.52.08:309][296]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape8)
+[2020.04.11-18.52.18:514][857]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape15)
+[2020.04.11-18.52.29:573][392]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape6)
+[2020.04.11-18.54.39:893][594]LogStaticMesh: Building static mesh RampTwist...
+[2020.04.11-18.54.39:982][594]LogStaticMesh: Built static mesh [0.09s] /Game/VehicleAdv/ArenaMesh/RampTwist.RampTwist
+[2020.04.11-18.54.40:352][611]LogActorFactory: Actor Factory created RampTwist
+[2020.04.11-18.54.42:238][713]LogActorFactory: Actor Factory created RampTwist
+[2020.04.11-18.55.41:271][987]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.04.11-18.55.47:475][313]LogActorFactory: Actor Factory created RampLarge
+[2020.04.11-18.55.49:690][425]LogActorFactory: Actor Factory created RampLarge
+[2020.04.11-18.55.51:051][499]Cmd: TRANSACTION UNDO
+[2020.04.11-18.55.51:051][499]LogEditorTransaction: Undo Create Actors
+[2020.04.11-18.56.08:015][431]LogActorFactory: Actor Factory created RampLarge
+[2020.04.11-18.56.09:020][476]LogActorFactory: Actor Factory created RampLarge
+[2020.04.11-18.56.38:547][ 39]Cmd: EDIT COPY
+[2020.04.11-18.56.38:746][ 49]Cmd: EDIT PASTE
+[2020.04.11-18.56.50:399][656]Cmd: DELETE
+[2020.04.11-18.56.50:399][656]Cmd: ACTOR DELETE
+[2020.04.11-18.56.50:422][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.11-18.56.50:455][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.04.11-18.56.50:457][656]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2020.04.11-18.56.51:820][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RampLarge2)
+[2020.04.11-18.58.23:929][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pole)
+[2020.04.11-18.58.24:885][788]Cmd: EDIT COPY
+[2020.04.11-18.58.25:073][799]Cmd: EDIT PASTE
+[2020.04.11-18.59.05:297][992]Cmd: EDIT COPY
+[2020.04.11-18.59.05:528][  4]Cmd: EDIT PASTE
+[2020.04.11-18.59.44:748][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pole)
+[2020.04.11-18.59.54:035][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pole2)
+[2020.04.11-19.00.24:004][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pole)
+[2020.04.11-19.00.30:815][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pole3)
+[2020.04.11-19.00.48:321][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pole2)
+[2020.04.11-19.00.55:199][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pole)
+[2020.04.11-19.01.02:156][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.04.11-19.01.02:394][252]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 128X128)
+[2020.04.11-19.01.02:396][252]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 128X128)
+[2020.04.11-19.01.02:397][252]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 128X128)
+[2020.04.11-19.01.02:397][252]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 128X128)
+[2020.04.11-19.01.02:398][252]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2020.04.11-19.01.02:399][252]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 128X128)
+[2020.04.11-19.01.02:400][252]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 128X128)
+[2020.04.11-19.01.02:402][252]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 128X128)
+[2020.04.11-19.01.02:403][252]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 128X128)
+[2020.04.11-19.01.02:404][252]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 128X128)
+[2020.04.11-19.01.02:405][252]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 128X128)
+[2020.04.11-19.01.02:406][252]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 128X128)
+[2020.04.11-19.01.02:407][252]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 128X128)
+[2020.04.11-19.01.02:408][252]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 128X128)
+[2020.04.11-19.01.02:409][252]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 128X128)
+[2020.04.11-19.01.02:410][252]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 128X128)
+[2020.04.11-19.01.02:411][252]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 128X128)
+[2020.04.11-19.01.02:412][252]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 128X128)
+[2020.04.11-19.01.02:414][252]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 128X128)
+[2020.04.11-19.01.02:415][252]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 128X128)
+[2020.04.11-19.01.02:416][252]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 128X128)
+[2020.04.11-19.01.02:418][252]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 128X128)
+[2020.04.11-19.01.02:419][252]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 128X128)
+[2020.04.11-19.01.02:420][252]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 128X128)
+[2020.04.11-19.01.02:421][252]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 128X128)
+[2020.04.11-19.01.02:423][252]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 128X128)
+[2020.04.11-19.01.02:424][252]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 128X128)
+[2020.04.11-19.01.02:425][252]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 128X128)
+[2020.04.11-19.01.02:426][252]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 128X128)
+[2020.04.11-19.01.02:428][252]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 128X128)
+[2020.04.11-19.01.02:431][252]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 128X128)
+[2020.04.11-19.01.02:432][252]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 128X128)
+[2020.04.11-19.01.02:433][252]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 128X128)
+[2020.04.11-19.01.02:434][252]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 128X128)
+[2020.04.11-19.01.02:435][252]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 128X128)
+[2020.04.11-19.01.02:436][252]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2020.04.11-19.01.03:733][252]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMapE6A412F442E479323D8A36B2DCEE8E20.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2020.04.11-19.01.06:500][252]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap_BuiltData80FF11D4458C3AA6C17469875BB48B9E.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2020.04.11-19.01.06:572][252]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.11-19.01.06:572][252]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2020.04.11-19.01.06:572][252]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
+[2020.04.11-19.01.07:020][267]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
