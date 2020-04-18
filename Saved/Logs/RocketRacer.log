@@ -828,3 +828,335 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.18-05.56.01:657][635]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.18-05.56.01:657][635]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
 [2020.04.18-05.56.01:657][635]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
+[2020.04.18-05.57.03:571][244]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.57.03:611][244]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.04.18-05.57.03:611][244]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.04.18-05.57.03:611][244]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.04.18-05.57.03:611][244]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.18-05.57.03:611][244]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.57.03:652][244]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.57.03:710][244]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.57.03:744][244]LogMaterial: Display: Material /Game/Tracks/Elements/EnvironmentText.EnvironmentText needed to have new flag set bUsedWithStaticLighting !
+[2020.04.18-05.57.03:744][244]LogMaterial: Display: Material /Engine/Transient.EnvironmentText needed to have new flag set bUsedWithStaticLighting !
+[2020.04.18-05.57.03:754][244]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.57.03:796][244]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.57.03:861][244]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.57.03:916][244]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.57.07:014][322]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 211
+[2020.04.18-05.57.08:692][368]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 210
+[2020.04.18-05.57.10:798][428]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 209
+[2020.04.18-05.57.12:121][466]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 208
+[2020.04.18-05.57.12:376][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 207
+[2020.04.18-05.57.12:986][489]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 206
+[2020.04.18-05.57.13:340][497]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 205
+[2020.04.18-05.57.13:423][499]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 204
+[2020.04.18-05.57.13:676][507]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 203
+[2020.04.18-05.57.14:376][525]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 202
+[2020.04.18-05.57.14:791][538]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 201
+[2020.04.18-05.57.15:076][546]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 200
+[2020.04.18-05.57.15:236][551]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 190
+[2020.04.18-05.57.15:686][564]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 180
+[2020.04.18-05.57.15:820][568]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 170
+[2020.04.18-05.57.25:212][825]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 160
+[2020.04.18-05.57.25:928][847]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 150
+[2020.04.18-05.57.26:408][860]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 140
+[2020.04.18-05.57.27:700][899]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 130
+[2020.04.18-05.57.35:673][118]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 120
+[2020.04.18-05.57.36:489][141]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 110
+[2020.04.18-05.57.37:546][169]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 100
+[2020.04.18-05.57.39:061][210]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 90
+[2020.04.18-05.57.47:131][440]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 80
+[2020.04.18-05.57.48:133][470]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2020.04.18-05.57.50:337][529]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 60
+[2020.04.18-05.57.50:436][530]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.18-05.57.50:436][530]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2020.04.18-05.57.50:436][530]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.18-05.57.50:436][530]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.18-05.57.50:436][530]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.18-05.57.50:995][548]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2020.04.18-05.57.59:130][780]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.04.18-05.57.59:407][786]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.04.18-05.58.01:165][831]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.04.18-05.58.02:819][876]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.18-05.58.07:133][996]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.18-05.58.07:651][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.04.18-05.58.07:880][  8]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.18-05.58.09:682][ 53]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.18-05.58.10:092][ 65]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.18-05.58.10:231][ 69]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.18-05.58.31:286][662]ImportText (DefaultValue): Missing opening parenthesis: Begin Object Class=/Script/UnrealEd.MaterialGraphNode Name="MaterialGraphNode_3"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_1"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_1"
+      DefaultValue=(R=0.185000,G=0.173445,B=0.161875,A=0.000000)
+      ParameterName="DesertColor"
+      ExpressionGUID=84422C7D419FD01AD25D9A8478924ECF
+      MaterialExpressionEditorX=-592
+      MaterialExpressionEditorY=-32
+      MaterialExpressionGuid=FB3415DC4731399B7BA4948EF1FA75BD
+      Material=PreviewMaterial'"/Engine/Transient.EnvironmentText"'
+   End Object
+   MaterialExpression=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_1"'
+   NodePosX=-592
+   NodePosY=-32
+   bCanRenameNode=True
+   NodeGuid=94D3BFB547691AE76BAA9183BF1B006B
+   CustomProperties Pin (PinId=B75EDBC34BCB92B04BE123B6E5683EA2,PinName="Output",PinFriendlyName=NSLOCTEXT("MaterialGraphNode", "Space", " "),Direction="EGPD_Output",PinType.PinCategory="mask",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,LinkedTo=(MaterialGraphNode_0 6C98C6AA42E42476B8CE58B059E2C751,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=231DE7C941BEA66A9CDBC293CFA59832,PinName="Output2",PinFriendlyName=NSLOCTEXT("MaterialGraphNode", "Space", " "),Direction="EGPD_Output",PinType.PinCategory="mask",PinType.PinSubCategory="red",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=20F548CB4811F2CFABB1ED9B22FFB2DF,PinName="Output3",PinFriendlyName=NSLOCTEXT("MaterialGraphNode", "Space", " "),Direction="EGPD_Output",PinType.PinCategory="mask",PinType.PinSubCategory="green",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=7B2A932544AF64420C22D08AC0BCCBF9,PinName="Output4",PinFriendlyName=NSLOCTEXT("MaterialGraphNode", "Space", " "),Direction="EGPD_Output",PinType.PinCategory="mask",PinType.PinSubCategory="blue",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+   CustomProperties Pin (PinId=6A3CE3A148B8EB6DFD734FADF1F3D111,PinName="Output5",PinFriendlyName=NSLOCTEXT("MaterialGraphNode", "Space", " "),Direction="EGPD_Output",PinType.PinCategory="mask",PinType.PinSubCategory="alpha",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+End Object
+
+[2020.04.18-05.58.31:304][662]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.58.31:321][662]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.18-05.58.31:321][662]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.18-05.58.31:321][662]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.18-05.58.31:321][662]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.18-05.58.31:341][662]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.04.18-05.58.31:379][662]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.04.18-05.58.31:422][662]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.04.18-05.58.31:449][662]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.04.18-05.58.31:484][662]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.58.34:642][729]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.04.18-05.58.34:686][730]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.04.18-05.58.34:731][731]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.04.18-05.58.34:790][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.04.18-05.58.36:122][760]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.04.18-05.58.36:167][761]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.04.18-05.58.36:415][766]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.04.18-05.58.36:563][769]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.04.18-05.58.37:884][795]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.04.18-05.58.37:927][796]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.18-05.58.38:125][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.18-05.58.38:135][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.18-05.58.40:294][843]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.18-05.58.40:490][847]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.04.18-05.58.40:490][847]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.04.18-05.58.40:533][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.18-05.58.41:664][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.18-05.58.41:906][878]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.18-05.58.42:497][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.18-05.58.50:481][125]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.18-05.58.50:481][125]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2020.04.18-05.58.50:481][125]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.18-05.58.50:481][125]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.18-05.58.50:481][125]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.18-05.58.51:923][163]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.58.52:011][164]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.18-05.58.52:011][164]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.18-05.58.52:011][164]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.18-05.58.52:011][164]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.18-05.58.54:156][209]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.18-05.58.54:210][210]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.18-05.58.54:249][211]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.18-05.58.54:286][212]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.18-05.58.55:393][236]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.18-05.58.55:493][238]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.18-05.58.55:567][239]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.58.55:616][239]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.04.18-05.58.55:949][244]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.04.18-05.58.56:057][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.04.18-05.58.56:957][263]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.04.18-05.58.57:196][268]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.04.18-05.58.57:912][282]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.18-05.58.58:068][285]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.04.18-05.58.59:052][304]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.18-05.58.59:111][305]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.18-05.58.59:200][307]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.18-05.59.00:220][327]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.04.18-05.59.00:513][333]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.04.18-05.59.00:758][338]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.04.18-05.59.00:850][340]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.04.18-05.59.01:856][359]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.18-05.59.02:316][368]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.18-05.59.02:379][369]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.18-05.59.02:379][369]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2020.04.18-05.59.02:379][369]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.18-05.59.02:379][369]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.18-05.59.02:379][369]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.18-05.59.02:620][374]LogMaterialEditor: Saving and Compiling material EnvironmentText
+[2020.04.18-05.59.07:099][374]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.59.07:191][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.18-05.59.07:191][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.18-05.59.07:191][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.18-05.59.07:191][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.18-05.59.07:231][374]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.59.07:348][374]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.59.07:433][374]LogMaterial: Display: Missing cached shader map for material EnvironmentText, compiling. 
+[2020.04.18-05.59.07:623][374]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.04.18-05.59.07:665][374]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.18-05.59.09:993][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 125
+[2020.04.18-05.59.09:993][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 124
+[2020.04.18-05.59.09:993][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 123
+[2020.04.18-05.59.09:993][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 122
+[2020.04.18-05.59.09:994][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 121
+[2020.04.18-05.59.09:994][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 120
+[2020.04.18-05.59.09:994][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 119
+[2020.04.18-05.59.09:994][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 118
+[2020.04.18-05.59.09:994][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 117
+[2020.04.18-05.59.09:994][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 116
+[2020.04.18-05.59.09:994][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 106
+[2020.04.18-05.59.09:994][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 96
+[2020.04.18-05.59.09:994][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2020.04.18-05.59.10:003][374]TextureStreamingBuild: Display: Compiling optional shaders took 2.379 seconds.
+[2020.04.18-05.59.10:051][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.04.18-05.59.16:221][374]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2020.04.18-05.59.16:222][374]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2020.04.18-05.59.16:222][374]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2020.04.18-05.59.16:222][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.04.18-05.59.16:488][374]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/EnvironmentText6EB7143A413BE1E2A29B3DAD22D3DF2B.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/EnvironmentText.uasset'
+[2020.04.18-05.59.16:540][374]AssetCheck: New page: Asset Save: EnvironmentText
+[2020.04.18-05.59.16:540][374]LogContentValidation: Display: Validating Material /Game/Tracks/Elements/EnvironmentText.EnvironmentText
+[2020.04.18-05.59.16:555][374]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.18-05.59.16:555][374]MaterialEditorStats: Base pass shader with Surface Lightmap: 145 instructions
+[2020.04.18-05.59.16:555][374]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.18-05.59.16:555][374]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.18-05.59.16:555][374]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.18-05.59.25:558][534]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2020.04.18-05.59.27:442][575]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.04.18-05.59.27:677][580]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.04.18-05.59.28:121][589]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.04.18-05.59.32:679][695]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.04.18-05.59.32:855][700]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.18-05.59.34:014][737]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.04.18-05.59.34:174][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.04.18-05.59.34:848][738]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.04.18-05.59.35:260][738]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.18-05.59.35:260][738]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.18-05.59.36:732][738]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap5AC90A624C2A3584C7038FB19BCF00D4.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2020.04.18-05.59.40:167][738]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap_BuiltData62CB9625469214D48A9591A091F60B83.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2020.04.18-05.59.40:196][738]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.18-05.59.40:196][738]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2020.04.18-05.59.40:196][738]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
+[2020.04.18-05.59.44:310][945]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2020.04.18-05.59.52:329][307]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape13)
+[2020.04.18-06.00.12:188][ 48]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape5)
+[2020.04.18-06.00.13:270][ 88]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape10)
+[2020.04.18-06.00.13:897][110]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape12)
+[2020.04.18-06.00.14:418][127]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape14)
+[2020.04.18-06.00.14:971][146]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape16)
+[2020.04.18-06.00.15:553][166]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape15)
+[2020.04.18-06.00.16:063][183]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape8)
+[2020.04.18-06.00.16:633][203]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape7)
+[2020.04.18-06.00.17:176][221]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape9)
+[2020.04.18-06.00.17:820][242]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape3)
+[2020.04.18-06.00.56:906][845]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape4)
+[2020.04.18-06.01.08:733][364]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.04.18-06.02.46:982][226]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.04.18-06.02.48:043][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_34)
+[2020.04.18-06.02.49:983][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_32)
+[2020.04.18-06.02.52:149][512]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AV_ramp_big_2)
+[2020.04.18-06.02.55:024][672]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.04.18-06.03.35:214][ 36]LogSlate: Window 'EnvironmentText' being destroyed
+[2020.04.18-06.03.35:267][ 36]LogSlate: Window 'EnvironmentText' being destroyed
+[2020.04.18-06.03.35:333][ 36]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.18-06.03.35:333][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.18-06.03.35:427][ 36]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.18-06.03.35:427][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.18-06.04.00:372][405]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2020.04.18-06.04.28:562][838]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape12)
+[2020.04.18-06.04.44:105][675]LogEditorViewport: Clicking on Actor (CTRL LMB): BlockingVolume (BlockingVolume6)
+[2020.04.18-06.04.48:899][920]LogEditorViewport: Clicking on Actor (CTRL LMB): PostProcessVolume (PostProcessVolume)
+[2020.04.18-06.04.59:628][504]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.05.00:716][558]Cmd: EDIT COPY
+[2020.04.18-06.05.00:950][570]Cmd: EDIT PASTE
+[2020.04.18-06.05.01:086][570]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.05.07:681][876]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.05.17:074][317]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.05.25:590][663]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.05.31:647][935]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.05.32:759][989]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape17)
+[2020.04.18-06.05.33:987][ 48]Cmd: TRANSACTION UNDO
+[2020.04.18-06.05.33:987][ 48]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.18-06.05.38:844][227]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.05.41:212][367]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.05.43:350][477]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.05.48:078][681]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.06.00:359][250]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.06.05:173][459]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.06.07:773][578]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_straight_full_108)
+[2020.04.18-06.06.14:563][859]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.06.18:436][  6]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.06.23:755][182]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.06.24:891][234]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape11)
+[2020.04.18-06.06.33:160][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_74)
+[2020.04.18-06.06.35:443][722]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.06.36:430][764]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape11)
+[2020.04.18-06.06.48:565][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_straight_full_110)
+[2020.04.18-06.06.51:022][416]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.06.55:506][603]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape11)
+[2020.04.18-06.06.57:044][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_bump_wave_9)
+[2020.04.18-06.07.05:170][ 18]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.07.13:470][381]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.07.24:976][981]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.24:976][981]LogEditorTransaction: Undo Scale Actors
+[2020.04.18-06.07.25:442][988]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.25:442][988]LogEditorTransaction: Undo Scale Actors
+[2020.04.18-06.07.25:993][ 10]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.25:993][ 10]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.18-06.07.27:034][ 56]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.27:034][ 56]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.18-06.07.28:756][133]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.28:756][133]LogEditorTransaction: Undo Move Actors
+[2020.04.18-06.07.29:533][170]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.29:534][170]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.18-06.07.30:206][197]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.30:206][197]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.18-06.07.30:615][211]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.30:615][211]LogEditorTransaction: Undo Move Actors
+[2020.04.18-06.07.31:466][244]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.31:466][244]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.18-06.07.31:962][263]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.31:962][263]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.18-06.07.32:134][271]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.32:134][271]LogEditorTransaction: Undo Move Actors
+[2020.04.18-06.07.32:300][276]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.32:300][276]LogEditorTransaction: Undo Move Actors
+[2020.04.18-06.07.32:490][285]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.32:490][285]LogEditorTransaction: Undo Move Actors
+[2020.04.18-06.07.32:731][293]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.32:731][293]LogEditorTransaction: Undo Regroup Ctrl+G
+[2020.04.18-06.07.33:299][315]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.33:300][315]LogEditorTransaction: Undo Move Actors
+[2020.04.18-06.07.33:924][346]Cmd: TRANSACTION UNDO
+[2020.04.18-06.07.33:924][346]LogEditorTransaction: Undo Scale Actors
+[2020.04.18-06.07.40:719][690]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_turn_91)
+[2020.04.18-06.07.47:164][  0]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.07.58:338][463]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.08.07:029][831]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.08.08:862][934]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume13)
+[2020.04.18-06.08.09:545][971]LogEditorViewport: Clicking on Actor (context menu): BlockingVolume (BlockingVolume13)
+[2020.04.18-06.08.19:096][452]LogEditorViewport: Clicking on Actor (CTRL LMB): BlockingVolume (BlockingVolume13)
+[2020.04.18-06.08.31:135][129]LogEditorViewport: Clicking on Actor (context menu): BlockingVolume (BlockingVolume13)
+[2020.04.18-06.08.41:869][712]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (AV_turn_90_large2)
+[2020.04.18-06.08.45:128][864]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume13)
+[2020.04.18-06.08.46:309][922]Cmd: DELETE
+[2020.04.18-06.08.46:309][922]Cmd: ACTOR DELETE
+[2020.04.18-06.08.46:347][922]LogEditorActor: Deleted Actor: BlockingVolume
+[2020.04.18-06.08.46:393][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.04.18-06.08.46:397][922]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2020.04.18-06.08.48:790][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AV_turn_91)
+[2020.04.18-06.09.12:957][105]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.09.17:607][270]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.09.24:537][605]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.09.24:969][623]Cmd: EDIT COPY
+[2020.04.18-06.09.25:386][647]Cmd: EDIT PASTE
+[2020.04.18-06.09.25:507][647]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.09.28:767][784]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.09.35:803][ 29]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.09.41:346][272]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.09.42:676][332]Cmd: TRANSACTION UNDO
+[2020.04.18-06.09.42:676][332]LogEditorTransaction: Undo Rotate Actors
+[2020.04.18-06.10.01:829][921]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.18-06.10.04:942][ 59]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape11)
+[2020.04.18-06.11.05:406][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.04.18-06.11.06:866][517]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap_Auto12E7765D74ACF6C6FDE9E7C9181A05B8A.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto1.umap'
+[2020.04.18-06.11.06:870][517]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 1.493
+[2020.04.18-06.11.06:871][517]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.493
+[2020.04.18-06.12.26:399][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.04.18-06.12.27:844][613]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMapBFAA15984DC926BDB9C71C8E0B3090AA.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2020.04.18-06.12.30:433][613]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap_BuiltDataCF6D7D9A4D55251822DB19AF8E1086C1.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2020.04.18-06.12.30:496][613]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.18-06.12.30:496][613]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2020.04.18-06.12.30:496][613]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
