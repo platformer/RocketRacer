@@ -3,3 +3,10 @@ Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset filter=lfs diff=
 Saved/Backup/VehicleAdvExampleMap_BuiltData_2020-04-18-13-50-03.uasset filter=lfs diff=lfs merge=lfs -text
 Saved/Backup/VehicleAdvExampleMap_BuiltData_2020-04-18-17-36-09.uasset filter=lfs diff=lfs merge=lfs -text
 Saved/Backup/VehicleAdvExampleMap_BuiltData_2020-04-24-02-48-31.uasset filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/RocketRacer.exe filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/RocketRacer.pdb filter=lfs diff=lfs merge=lfs -text
+Intermediate/Build/Win64/RocketRacer/Development/*/SharedPCH.Engine.h.pch filter=lfs diff=lfs merge=lfs -text
+Saved/Backup/VehicleAdvExampleMap_BuiltData_2020-04-24-20-10-52.uasset filter=lfs diff=lfs merge=lfs -text
+Saved/StagedBuilds/WindowsNoEditor/RocketRacer/Binaries/Win64/RocketRacer.exe filter=lfs diff=lfs merge=lfs -text
+Saved/StagedBuilds/WindowsNoEditor/RocketRacer/Content/Paks/RocketRacer-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
+Saved/Cooked/WindowsNoEditor/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.ubulk filter=lfs diff=lfs merge=lfs -text
