@@ -1,0 +1,12 @@
+ACTION					| XBOX / KEYBOARD
+------------------------------------------------
+Quit Game:				| [none] / ESC	
+Accelerate:				| RT / W
+Brake/Reverse:			| LT / S
+Turn:					| Left stick / A and D
+Roll Clockwise:			| RB
+Roll Counterclockwise:	| LB
+Thrust Up:				| A / Up Arrow
+Thrust Down:			| Y / Down Arrow
+Thrust Left:			| B / Left Arrow
+Thrust Right:			| X / Right Arrow
