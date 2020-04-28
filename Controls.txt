@@ -1,13 +1,15 @@
 ACTION						| XBOX / KEYBOARD
-------------------------------------------------
+-----------------------------------------------------
 Quit Game:					| [none] / ESC	
 Accelerate:					| RT / W
 Brake/Reverse:				| LT / S
-Turn:						| Left stick / A and D
+Turn:						| Left Stick / A and D
 Roll Clockwise:				| RB / [none]
 Roll Counterclockwise:		| LB / [none]
 Thrust Up:					| A / Up Arrow
 Thrust Down:				| Y / Down Arrow
 Thrust Left:				| B / Left Arrow
 Thrust Right:				| X / Right Arrow
+Lock Car Rotation:			| Left Stick Button / Q
 Reset to Last Checkpoint	| Start / R
+Switch Camera				| Select / E

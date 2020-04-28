@@ -1,0 +1,753 @@
+﻿Log file open, 04/27/20 21:04:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RocketRacer
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.141845
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.04.28-02.04.01:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.28-02.04.01:919][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.28-02.04.01:920][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.04.28-02.04.01:920][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.04.28-02.04.01:925][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:925][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.28-02.04.01:925][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.28-02.04.01:925][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:925][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.28-02.04.01:925][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:925][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.28-02.04.01:925][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.28-02.04.01:925][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.28-02.04.01:925][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.28-02.04.01:925][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.28-02.04.01:925][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.28-02.04.01:925][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.28-02.04.01:925][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.28-02.04.01:926][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.28-02.04.01:927][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.28-02.04.01:928][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.28-02.04.01:929][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.28-02.04.01:929][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.28-02.04.01:935][  0]LogHAL: Display: Platform has ~ 16 GB [17101164544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.28-02.04.01:935][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.28-02.04.01:935][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:935][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.28-02.04.01:935][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.28-02.04.01:935][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:935][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.28-02.04.01:935][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:935][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.28-02.04.01:935][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.28-02.04.01:935][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.28-02.04.01:935][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.28-02.04.01:936][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.28-02.04.01:937][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:937][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.28-02.04.01:938][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Scalability.ini]
+[2020.04.28-02.04.01:938][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.28-02.04.01:939][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.28-02.04.01:939][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.28-02.04.01:939][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.28-02.04.01:939][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.28-02.04.01:939][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.28-02.04.01:939][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Config/Windows/Engine.ini]
+[2020.04.28-02.04.01:939][  0]LogInit: Computer: DESKTOP-O2BFK72
+[2020.04.28-02.04.01:939][  0]LogInit: User: andre
+[2020.04.28-02.04.01:939][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.28-02.04.01:939][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.28-02.04.01:940][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.28-02.04.01:940][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.28-02.04.01:940][  0]LogMemory: Process Physical Memory: 106.06 MB used, 106.07 MB peak
+[2020.04.28-02.04.01:940][  0]LogMemory: Process Virtual Memory: 100.63 MB used, 100.63 MB peak
+[2020.04.28-02.04.01:940][  0]LogMemory: Physical Memory: 5869.80 MB used,  10439.14 MB free, 16308.94 MB total
+[2020.04.28-02.04.01:940][  0]LogMemory: Virtual Memory: 5137.52 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.04.28-02.04.01:946][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.28-02.04.01:995][  0]LogInit: Using OS detected language (en-US).
+[2020.04.28-02.04.01:995][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.28-02.04.01:997][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.28-02.04.02:359][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.28-02.04.02:424][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.28-02.04.02:424][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.28-02.04.02:745][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.28-02.04.02:745][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.28-02.04.02:745][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.28-02.04.02:745][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.28-02.04.02:857][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.04.28-02.04.02:857][  0]LogD3D11RHI:       128/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.04.28-02.04.02:992][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.04.28-02.04.02:992][  0]LogD3D11RHI:       1979/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2020.04.28-02.04.02:997][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.28-02.04.02:997][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.28-02.04.02:998][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2020.04.28-02.04.03:018][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.28-02.04.03:018][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.04.28-02.04.03:018][  0]LogWindows: EnumDisplayDevices:
+[2020.04.28-02.04.03:019][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.04.28-02.04.03:019][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.04.28-02.04.03:020][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.04.28-02.04.03:020][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.04.28-02.04.03:020][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.04.28-02.04.03:020][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.04.28-02.04.03:020][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.04.28-02.04.03:020][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2020.04.28-02.04.03:115][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.28-02.04.03:115][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.28-02.04.03:133][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.28-02.04.03:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.28-02.04.03:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.28-02.04.03:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.28-02.04.03:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.28-02.04.03:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.28-02.04.03:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.28-02.04.04:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.28-02.04.04:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.28-02.04.04:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.28-02.04.04:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.28-02.04.04:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.28-02.04.04:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.28-02.04.04:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.28-02.04.04:162][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.28-02.04.04:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.28-02.04.04:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.28-02.04.04:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.28-02.04.04:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.28-02.04.04:227][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.28-02.04.04:231][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.28-02.04.04:264][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Intermediate/Shaders/WorkingDirectory/14872/).
+[2020.04.28-02.04.04:265][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/andre/AppData/Local/Temp/UnrealShaderWorkingDir/03838115408A86280E3CF7BDF8C6C62A/'.
+[2020.04.28-02.04.04:265][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.28-02.04.04:266][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.28-02.04.04:266][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.28-02.04.05:440][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.28-02.04.05:506][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.28-02.04.05:506][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.28-02.04.05:506][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.28-02.04.05:506][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.28-02.04.05:506][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.28-02.04.05:506][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.28-02.04.05:521][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.28-02.04.05:521][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.28-02.04.05:521][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.28-02.04.05:523][  0]LogDerivedDataCache: Using Local data cache path C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.28-02.04.05:523][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.28-02.04.05:523][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.28-02.04.05:562][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.28-02.04.05:567][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.28-02.04.05:568][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.28-02.04.05:649][  0]LogAssetRegistry: FAssetRegistry took 0.0040 seconds to start up
+[2020.04.28-02.04.06:217][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.28-02.04.06:475][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.28-02.04.06:475][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.28-02.04.06:475][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.28-02.04.06:475][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.28-02.04.06:475][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.28-02.04.06:495][  0]LogNetVersion: RocketRacer 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2842693076)
+[2020.04.28-02.04.08:224][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.072556 seconds
+[2020.04.28-02.04.08:237][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.28-02.04.08:237][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.28-02.04.08:237][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.28-02.04.08:891][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.28-02.04.08:895][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.28-02.04.09:007][  0]SourceControl: Source control is disabled
+[2020.04.28-02.04.09:007][  0]SourceControl: Source control is disabled
+[2020.04.28-02.04.09:009][  0]SourceControl: Source control is disabled
+[2020.04.28-02.04.09:011][  0]SourceControl: Source control is disabled
+[2020.04.28-02.04.09:012][  0]SourceControl: Source control is disabled
+[2020.04.28-02.04.09:145][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.28-02.04.09:158][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.28-02.04.09:158][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.28-02.04.09:301][  0]LogOcInput: OculusInput pre-init called
+[2020.04.28-02.04.09:312][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.28-02.04.09:312][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.28-02.04.09:416][  0]LogEngine: Initializing Engine...
+[2020.04.28-02.04.09:418][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.28-02.04.09:420][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.28-02.04.10:139][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.28-02.04.10:154][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.28-02.04.10:193][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.28-02.04.10:193][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.28-02.04.10:193][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.28-02.04.10:193][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.28-02.04.10:193][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.28-02.04.10:193][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.28-02.04.10:193][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.28-02.04.10:193][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.28-02.04.10:194][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.28-02.04.10:194][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.28-02.04.10:225][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.28-02.04.10:225][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio(SST))
+[2020.04.28-02.04.10:225][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.28-02.04.10:225][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.28-02.04.10:225][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.28-02.04.10:225][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.28-02.04.10:225][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.28-02.04.10:225][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.28-02.04.10:225][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.28-02.04.10:461][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.04.28-02.04.10:470][  0]LogInit: FAudioDevice initialized.
+[2020.04.28-02.04.10:470][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.28-02.04.10:569][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.28-02.04.10:579][  0]LogInit: Texture streaming: Enabled
+[2020.04.28-02.04.10:592][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.28-02.04.10:592][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.28-02.04.10:596][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.28-02.04.10:719][  0]LogInit: Transaction tracking system initialized
+[2020.04.28-02.04.10:738][  0]BlueprintLog: New page: Editor Load
+[2020.04.28-02.04.10:790][  0]LocalizationService: Localization service is disabled
+[2020.04.28-02.04.11:366][  0]LogFileCache: Scanning file cache for directory 'C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/' took 0.01s
+[2020.04.28-02.04.11:366][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.28-02.04.11:366][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.28-02.04.12:488][  0]SourceControl: Source control is disabled
+[2020.04.28-02.04.12:706][  0]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.28-02.04.19:149][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.04.28-02.04.19:152][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.28-02.04.19:160][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.28-02.04.19:191][  0]Cmd: MAP LOAD FILE="../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.28-02.04.19:193][  0]LightingResults: New page: Lighting Build
+[2020.04.28-02.04.19:198][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.28-02.04.19:198][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.28-02.04.19:199][  0]MapCheck: New page: Map Check
+[2020.04.28-02.04.19:199][  0]LightingResults: New page: Lighting Build
+[2020.04.28-02.04.19:261][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.04.28-02.04.19:689][  0]LogBlueprint: Warning: [Compiler VehicleBlueprint] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2020.04.28-02.04.19:729][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Update Lap Times  : unable to determine expected signature - is the delegate pin connected?
+[2020.04.28-02.04.19:732][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find an event-dispatcher named "Player Update Lap Times" in 'CheckpointTracker_C'.
+Make sure 'CheckpointTracker_C' has been compiled for  Bind Event to Player Update Lap Times
+[2020.04.28-02.04.19:733][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Failed to create property K2Node_CreateDelegate_OutputDelegate_2 from  <None>  due to a bad or unknown type (Delegate)
+[2020.04.28-02.04.19:736][  0]LogBlueprint: Error: [Compiler VehicleBlueprint] Update Lap Times  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2020.04.28-02.04.21:766][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.04.28-02.04.22:389][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.28-02.04.22:485][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.04.28-02.04.22:486][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.28-02.04.22:487][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.487ms to complete.
+[2020.04.28-02.04.22:487][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 3.296
+[2020.04.28-02.04.22:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-02.04.22:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-02.04.22:625][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-02.04.22:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.28-02.04.22:643][  0]LogCollectionManager: Loaded 0 collections in 0.002992 seconds
+[2020.04.28-02.04.22:661][  0]LogFileCache: Scanning file cache for directory 'C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/Collections/' took 0.00s
+[2020.04.28-02.04.22:661][  0]LogFileCache: Scanning file cache for directory 'C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Developers/andre/Collections/' took 0.00s
+[2020.04.28-02.04.22:661][  0]LogFileCache: Scanning file cache for directory 'C:/Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Collections/' took 0.00s
+[2020.04.28-02.04.22:661][  0]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 3018 classes and 721 folders.
+[2020.04.28-02.04.22:667][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.28-02.04.22:752][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.28-02.04.22:757][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.04.28-02.04.22:823][  0]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.28-02.04.22:840][  0]LogSlate: Took 0.000487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.28-02.04.22:980][  0]LogRenderer: Reallocating scene render targets to support 856x508 Format 10 NumSamples 1 (Frame:1).
+[2020.04.28-02.04.23:169][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.28-02.04.23:169][  0]LogLoad: (Engine Initialization) Total time: 23.84 seconds
+[2020.04.28-02.04.23:169][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.28-02.04.23:195][  0]LogRawInputWindows: Warning: Found device 26 devices
+[2020.04.28-02.04.23:196][  0]LogRawInputWindows: Warning: Found device 26 devices
+[2020.04.28-02.04.23:196][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.04.28-02.04.23:196][  0]LogRawInputWindows: Warning: Found device 26 devices
+[2020.04.28-02.04.23:196][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2020.04.28-02.04.23:483][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.28-02.04.23:643][  1]LogAssetRegistry: Asset discovery search completed in 17.9954 seconds
+[2020.04.28-02.04.23:651][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2020.04.28-02.04.24:356][ 17]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.28-02.04.28:211][160]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.28-02.04.28:615][160]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2020.04.28-02.04.30:184][160]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tracks/Elements/CheckpointTracker.CheckpointTracker
+[2020.04.28-02.04.30:673][160]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.28-02.04.30:868][161]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.28-02.04.42:530][466]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.04.28-02.04.42:620][466]LogBlueprint: Warning: [Compiler VehicleBlueprint] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2020.04.28-02.04.42:638][466]LogBlueprint: Error: [Compiler VehicleBlueprint] Update Lap Times  : unable to determine expected signature - is the delegate pin connected?
+[2020.04.28-02.04.42:640][466]LogBlueprint: Error: [Compiler VehicleBlueprint] Could not find an event-dispatcher named "Player Update Lap Times" in 'CheckpointTracker_C'.
+Make sure 'CheckpointTracker_C' has been compiled for  Bind Event to Player Update Lap Times
+[2020.04.28-02.04.42:641][466]LogBlueprint: Error: [Compiler VehicleBlueprint] Failed to create property K2Node_CreateDelegate_OutputDelegate_2 from  <None>  due to a bad or unknown type (Delegate)
+[2020.04.28-02.04.42:645][466]LogBlueprint: Error: [Compiler VehicleBlueprint] Update Lap Times  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2020.04.28-02.04.43:013][466]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.04.28-02.04.46:618][547]BlueprintLog: New page: Compile CheckpointTracker
+[2020.04.28-02.04.47:037][547]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.04.28-02.06.33:733][562]BlueprintLog: New page: Compile CheckpointTracker
+[2020.04.28-02.06.34:269][562]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2020.04.28-02.06.35:564][595]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/CheckpointTrackerD315EFCC41BE0F7AA5FB699530E3DB70.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/CheckpointTracker.uasset'
+[2020.04.28-02.06.35:602][595]AssetCheck: New page: Asset Save: CheckpointTracker
+[2020.04.28-02.06.35:602][595]LogContentValidation: Display: Validating Blueprint /Game/Tracks/Elements/CheckpointTracker.CheckpointTracker
+[2020.04.28-02.06.51:999][ 17]LogHttp: Warning: 0000025BC38CCE00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD887F17A-46E1-BD56-146F-BB8DDD24ED80%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=af0b6c2c47b9609470b03baa6bbcc653%7Cec171b9ba92c4a39b24e89e1b852ca31%7C740c3978-4fb6-4bd3-86b3-b43b687e320e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.28-02.06.51:999][ 17]LogHttp: Warning: 0000025BC38CCE00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.04.28-02.06.51:999][ 17]LogHttp: Warning: 0000025BC38CCE00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25b232eff70 [can pipeline])
+[2020.04.28-02.06.51:999][ 17]LogHttp: Warning: 0000025BC38CCE00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2020.04.28-02.06.52:000][ 17]LogHttp: Warning: 0000025BC38CCE00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.203.172.183) port 443 (#0))
+[2020.04.28-02.06.52:000][ 17]LogHttp: Warning: 0000025BC38CCE00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.04.28-02.06.52:000][ 17]LogHttp: Warning: 0000025BC38CCE00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.04.28-02.06.52:000][ 17]LogHttp: Warning: 0000025BC38CCE00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.04.28-02.06.52:000][ 17]LogHttp: Warning: 0000025BC38CCE00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.04.28-02.06.52:000][ 17]LogHttp: Warning: 0000025BC38CCE00: libcurl info message cache 7 (Closing connection 0)
+[2020.04.28-02.06.52:038][ 18]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD887F17A-46E1-BD56-146F-BB8DDD24ED80%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=af0b6c2c47b9609470b03baa6bbcc653%7Cec171b9ba92c4a39b24e89e1b852ca31%7C740c3978-4fb6-4bd3-86b3-b43b687e320e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.28-02.07.05:603][371]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleBlueprintD7E8B28C4AAA5059DA038C8DEE6FE7CE.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2020.04.28-02.07.05:627][371]AssetCheck: New page: Asset Save: VehicleBlueprint
+[2020.04.28-02.07.05:628][371]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.28-02.07.08:388][470]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.04.28-02.07.11:539][470]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMapBF214E674283C0CA974AC3907379E3F0.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2020.04.28-02.07.21:341][470]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap_BuiltData1C1FB4BB466891B7F77FBCA6852D0975.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2020.04.28-02.07.21:419][470]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.28-02.07.21:419][470]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2020.04.28-02.07.21:419][470]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
+[2020.04.28-02.07.33:308][826]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.04.28-02.07.33:398][826]LogBlueprint: Warning: [Compiler VehicleBlueprint] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2020.04.28-02.07.33:423][826]LogBlueprint: Error: [Compiler VehicleBlueprint] This blueprint (self) is not a CheckpointTracker_C, therefore ' Target ' must have a connection.
+[2020.04.28-02.07.33:426][826]LogBlueprint: Error: [Compiler VehicleBlueprint] Event Dispatcher pin is not connected  Bind Event to Player Update Lap Times
+[2020.04.28-02.07.33:928][826]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.04.28-02.08.18:418][968]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.04.28-02.08.18:485][968]LogBlueprint: Warning: [Compiler VehicleBlueprint] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2020.04.28-02.08.18:958][968]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.04.28-02.08.20:994][  0]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleBlueprint4ACBC1EC4C6489E5F93E9D9975E4E0F7.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2020.04.28-02.08.21:015][  0]AssetCheck: New page: Asset Save: VehicleBlueprint
+[2020.04.28-02.08.21:015][  0]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.28-02.13.29:704][406]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleBlueprint060181B44BDD309E5BE8B0B59975237A.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2020.04.28-02.13.29:733][406]AssetCheck: New page: Asset Save: VehicleBlueprint
+[2020.04.28-02.13.29:733][406]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.28-02.13.30:405][424]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.04.28-02.13.30:498][424]LogBlueprint: Warning: [Compiler VehicleBlueprint] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2020.04.28-02.13.31:054][424]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.04.28-02.13.32:998][470]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/CheckpointTracker7035227143279B1F93FF5483CEAE4B1F.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/CheckpointTracker.uasset'
+[2020.04.28-02.13.33:016][470]AssetCheck: New page: Asset Save: CheckpointTracker
+[2020.04.28-02.13.33:017][470]LogContentValidation: Display: Validating Blueprint /Game/Tracks/Elements/CheckpointTracker.CheckpointTracker
+[2020.04.28-02.13.37:323][614]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.04.28-02.13.40:243][614]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap0AA5B801407F6725EB376D9AB31E8760.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap'
+[2020.04.28-02.13.47:778][614]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleAdvExampleMap_BuiltDataBB4F6EE442919E47507C0CB747CF513A.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset'
+[2020.04.28-02.13.47:838][614]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.28-02.13.47:838][614]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap
+[2020.04.28-02.13.47:838][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.VehicleAdvExampleMap_BuiltData
+[2020.04.28-02.15.01:874][654]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.04.28-02.15.01:963][654]LogBlueprint: Warning: [Compiler VehicleBlueprint] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2020.04.28-02.15.02:470][654]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.04.28-02.15.04:091][674]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleBlueprintF6269D9C41AA8BA9A8A5DEBD0A08F425.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2020.04.28-02.15.04:117][674]AssetCheck: New page: Asset Save: VehicleBlueprint
+[2020.04.28-02.15.04:117][674]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.28-02.15.48:996][833]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleBlueprint61E768164AC11373487A92B2BA80580F.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2020.04.28-02.15.49:021][833]AssetCheck: New page: Asset Save: VehicleBlueprint
+[2020.04.28-02.15.49:021][833]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.28-02.16.23:161][560]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleBlueprintF28EBFF64B9B1EB9DE502699892A6BC0.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2020.04.28-02.16.23:195][560]AssetCheck: New page: Asset Save: VehicleBlueprint
+[2020.04.28-02.16.23:196][560]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.28-02.17.02:449][433]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleBlueprintF85C1DD44F347657C33508B1F257C14D.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2020.04.28-02.17.02:474][433]AssetCheck: New page: Asset Save: VehicleBlueprint
+[2020.04.28-02.17.02:475][433]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.28-02.18.00:605][909]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleBlueprint566C58E845681ACEBA711E993E3BF535.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2020.04.28-02.18.00:633][909]AssetCheck: New page: Asset Save: VehicleBlueprint
+[2020.04.28-02.18.00:633][909]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.28-02.18.15:119][296]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/VehicleBlueprintF42733454185F4303FEE578B3F68DC90.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2020.04.28-02.18.15:143][296]AssetCheck: New page: Asset Save: VehicleBlueprint
+[2020.04.28-02.18.15:143][296]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.04.28-02.18.15:739][312]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.04.28-02.18.15:813][312]LogBlueprint: Warning: [Compiler VehicleBlueprint] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2020.04.28-02.18.16:436][312]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2020.04.28-02.18.37:355][820]LogSavePackage: Moving '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Saved/CheckpointTracker623A3C6D4D6AA824EFFCC881FA5347FE.tmp' to '../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/CheckpointTracker.uasset'
+[2020.04.28-02.18.37:380][820]AssetCheck: New page: Asset Save: CheckpointTracker
+[2020.04.28-02.18.37:380][820]LogContentValidation: Display: Validating Blueprint /Game/Tracks/Elements/CheckpointTracker.CheckpointTracker
+[2020.04.28-02.18.38:536][852]LogUObjectArray: Warning: Other object in slot
+[2020.04.28-02.18.38:536][852]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.28-02.18.38:583][852]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.046 s
+[2020.04.28-02.18.38:583][852]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.28-02.18.38:583][852]LogOutputDevice: Error: 
+[2020.04.28-02.18.38:583][852]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.04.28-02.18.38:583][852]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.28-02.18.38:583][852]LogOutputDevice: Error: Stack: 
+[2020.04.28-02.18.38:583][852]LogOutputDevice: Error: [Callstack] 0x00007ff9fc677b39 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.28-02.18.38:583][852]LogOutputDevice: Error: [Callstack] 0x00007ff9fbe866ca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.28-02.18.38:583][852]LogOutputDevice: Error: [Callstack] 0x00007ff9fbe93fdf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ff9f8c8bd51 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ff9f640977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ff9f63c1647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa0afbb144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa0b1adc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa0b0060b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa0afe46f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa0afd8ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa1b864ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa1b85242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa1b867195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa1b84ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa35235c0d USER32.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa35235602 USER32.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa1b868699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ff6dc006db0 UE4Editor.exe!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ff6dc01c3ec UE4Editor.exe!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ff6dc01c4ca UE4Editor.exe!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ff6dc02ceae UE4Editor.exe!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ff6dc02fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa348f7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: [Callstack] 0x00007ffa3688ce51 ntdll.dll!UnknownFunction []
+[2020.04.28-02.18.38:584][852]LogOutputDevice: Error: 
+[2020.04.28-02.18.38:593][852]LogStats:                SubmitErrorReport -  0.000 s
