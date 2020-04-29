@@ -106,442 +106,442 @@
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 105
 "../../../Engine/Content/BasicShapes/Plane.uasset" 106
 "../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/DeathPlane.uasset" 107
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 108
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleAdvHud.uasset" 109
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/PhysicsMaterials/NonSlippery.uasset" 110
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/PhysicsMaterials/Slippery.uasset" 111
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/WheelData/Vehicle_BackTireConfig.uasset" 112
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/WheelData/WheelBack.uasset" 113
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/WheelData/Vehicle_FrontTireConfig.uasset" 114
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/WheelData/WheelFront.uasset" 115
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 116
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 117
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Materials/VehicleMat.uasset" 118
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_att.uasset" 119
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Loop_Cue.uasset" 120
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Materials/Fixed_Template_Master.uasset" 121
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Materials/MaterialInstances/Template_BaseBlue.uasset" 122
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/VehiclePhysicsAsset.uasset" 123
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/Vehicle_SkelMesh.uasset" 124
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Materials/speeddial.uasset" 125
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Speedometer.uasset" 126
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" 127
-"../../../Engine/Content/EngineMaterials/Grid.uasset" 128
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Materials/MasterGrid.uasset" 129
-"../../../Engine/Content/BasicShapes/Cube.uasset" 130
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/GravitySurface.uasset" 131
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/StartingLineText.uasset" 132
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/StartingLineText_Inst.uasset" 133
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Materials/M_Concrete_Panels.uasset" 134
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Materials/M_Metal_Burnished_Steel.uasset" 135
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Materials/Road_Inst.uasset" 136
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_Concrete_Panels_D.uasset" 137
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_Concrete_Panels_N.uasset" 138
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_MacroVariation.uasset" 139
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_Metal_Aluminum_D.uasset" 140
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_Metal_Gold_N.uasset" 141
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_Perlin_Noise_M.uasset" 142
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/ArenaMesh/CubeMaterial.uasset" 143
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/ArenaMesh/RoadSegment_01.uasset" 144
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_01_Loop.uasset" 145
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_02_Loop.uasset" 146
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_03_Loop.uasset" 147
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_04_Loop.uasset" 148
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_05_Loop.uasset" 149
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_06_Loop.uasset" 150
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Textures/VehicleJoystick_BackgroundL.uasset" 151
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Textures/VehicleJoystick_BackgroundR.uasset" 152
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 153
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 154
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/LeftVirtualJoystickOnly.uasset" 155
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/VehicleBodyCollision.uasset" 156
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/AdvancedVehicleOverview.uasset" 157
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrusters/Thrust_UpA_Blueprint.uasset" 158
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrust_UpA_Blueprint.uasset" 159
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleAdvGameMode.uasset" 160
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrusters/PhysicsThruster5_Blueprint.uasset" 161
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrusters/Thrust_ForwardA.uasset" 162
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrusters/Thrust_LeftA_Blueprint.uasset" 163
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrusters/Thrust_RightA_Blueprint.uasset" 164
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 165
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 166
-"../../../Engine/Content/BasicShapes/Cone.uasset" 167
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 168
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 169
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 170
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 171
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 172
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 173
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 174
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 175
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 176
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 177
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 178
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 179
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 180
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 181
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 182
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 183
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 184
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 185
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 186
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 187
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 188
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 189
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 190
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 191
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 192
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 193
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 194
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 195
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 196
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 197
-"../../../Engine/Content/EditorResources/S_Note.uasset" 198
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 199
-"../../../Engine/Content/EditorResources/S_Thruster.uasset" 200
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 201
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 202
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 203
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 204
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 205
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 206
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 207
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 208
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 209
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 210
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 211
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 212
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 213
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 214
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 215
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 216
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 217
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 218
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 219
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 220
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 221
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 222
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 223
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 224
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 225
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 226
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 227
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 228
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 229
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 230
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 231
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 232
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 233
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 234
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 235
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 236
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 237
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 238
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 239
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 240
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 241
-"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 242
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 243
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 244
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 245
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 246
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 247
-"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 248
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 249
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 250
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 251
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 252
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 253
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 254
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 255
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 256
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 257
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 258
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 259
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 260
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 261
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 262
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 263
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 264
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 265
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 266
-"../../../Engine/Content/EngineResources/Black.uasset" 267
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 268
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 269
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 270
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 271
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 272
-"../../../Engine/Content/EngineSounds/Master.uasset" 273
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 274
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 275
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 276
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 277
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 278
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 279
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 280
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 281
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 282
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 283
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 284
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 285
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 286
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 287
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 288
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 289
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 290
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 291
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 292
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 293
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 294
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 295
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 296
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 297
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 298
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 299
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 300
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 301
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 302
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 303
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 304
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 305
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 306
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 307
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 308
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 309
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 310
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 311
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 312
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 313
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 314
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 315
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 316
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 317
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 318
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 319
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 320
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 321
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 322
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 323
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 324
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 325
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 326
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 327
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 328
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 329
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 330
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 331
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 332
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 333
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 334
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 335
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 336
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 337
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 338
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_AssetPlatform.uasset" 339
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 340
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 341
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 342
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 343
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 344
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 345
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 346
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 347
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/Advanced_Lighting.umap" 348
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 349
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 350
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 351
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 352
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 353
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 354
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 355
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 356
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 357
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 358
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_MacroVariation.uasset" 359
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 360
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 361
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 362
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 363
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 364
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Copper.uasset" 365
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Statue_M.uasset" 366
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Statue_N.uasset" 367
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 368
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Architecture/Floor_400x400.uasset" 369
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 370
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_Chair.uasset" 371
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/Materials/M_Statue.uasset" 372
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_Statue.uasset" 373
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_TableRound_M.uasset" 374
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_TableRound_N.uasset" 375
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/Materials/M_TableRound.uasset" 376
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_TableRound.uasset" 377
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/Minimal_Default.umap" 378
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Fire01_Cue.uasset" 379
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 380
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 381
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 382
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Water_N.uasset" 383
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 384
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 385
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/P_Fire.uasset" 386
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 387
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Smoke01_Cue.uasset" 388
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/P_Smoke.uasset" 389
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 390
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 391
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Spark_Core.uasset" 392
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/Materials/M_Spark.uasset" 393
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/P_Sparks.uasset" 394
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 395
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Steam01_Cue.uasset" 396
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/P_Steam_Lit.uasset" 397
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 398
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Lamp_M.uasset" 399
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Lamp_N.uasset" 400
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/Materials/M_Lamp.uasset" 401
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 402
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 403
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 404
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 405
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 406
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 407
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 408
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 409
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 410
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 411
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 412
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 413
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 414
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 415
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 416
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 417
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 418
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 419
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 420
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 421
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 422
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 423
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 424
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 425
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 426
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 427
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 428
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 429
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 430
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 431
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 432
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 433
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 434
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 435
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Gradinet_01.uasset" 436
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 437
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 438
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 439
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 440
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 441
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 442
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 443
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 444
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 445
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 446
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 447
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 448
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 449
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 450
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 451
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 452
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 453
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 454
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 455
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 456
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 457
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 458
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Ground_Grass.uasset" 459
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 460
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 461
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 462
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 463
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 464
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Ground_Moss.uasset" 465
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 466
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 467
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Gold.uasset" 468
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 469
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Rust.uasset" 470
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 471
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 472
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Steel.uasset" 473
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 474
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 475
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 476
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 477
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 478
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 479
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 480
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 481
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Rock_Slate.uasset" 482
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 483
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 484
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 485
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 486
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 487
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 488
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 489
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 490
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 491
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 492
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 493
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Tech_Panel.uasset" 494
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Water_Lake.uasset" 495
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Water_M.uasset" 496
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Water_Ocean.uasset" 497
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 498
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 499
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 500
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 501
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 502
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 503
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 504
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 505
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Wood_Oak.uasset" 506
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 507
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 508
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Wood_Pine.uasset" 509
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 510
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 511
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 512
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Architecture/Wall_400x200.uasset" 513
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 514
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 515
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Collapse_Cue.uasset" 516
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 517
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 518
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 519
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 520
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/MaterialSphere.uasset" 521
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Frame_M.uasset" 522
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Frame_N.uasset" 523
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/Materials/M_Frame.uasset" 524
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_CornerFrame.uasset" 525
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_DoorFrame.uasset" 526
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_GlassWindow.uasset" 527
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_PillarFrame.uasset" 528
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_PillarFrame300.uasset" 529
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_WindowFrame.uasset" 530
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Shapes/Shape_Cube.uasset" 531
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 532
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Shapes/Shape_Sphere.uasset" 533
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/StarterMap.umap" 534
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/PositionTracker.uasset" 535
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Data/RoadData.uasset" 536
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Props/L_GuardRail.uasset" 537
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Props/R_GuardRail.uasset" 538
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/RoadTexture_BaseColor_Alpha.uasset" 539
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/RoadTexture_Normal_Alpha.uasset" 540
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Materials/Road.uasset" 541
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Props/RoadMesh.uasset" 542
-"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Blueprints/TrackGenerator.uasset" 543
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Data/RoadData.uasset" 108
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 109
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 110
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_MacroVariation.uasset" 111
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 112
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 113
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 114
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 115
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 116
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Props/L_GuardRail.uasset" 117
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Props/R_GuardRail.uasset" 118
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/RoadTexture_BaseColor_Alpha.uasset" 119
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/RoadTexture_Normal_Alpha.uasset" 120
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Materials/Road.uasset" 121
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Props/RoadMesh.uasset" 122
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Blueprints/TrackGenerator.uasset" 123
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 124
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleAdvHud.uasset" 125
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/PhysicsMaterials/NonSlippery.uasset" 126
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/PhysicsMaterials/Slippery.uasset" 127
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/WheelData/Vehicle_BackTireConfig.uasset" 128
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/WheelData/WheelBack.uasset" 129
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/WheelData/Vehicle_FrontTireConfig.uasset" 130
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/WheelData/WheelFront.uasset" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 132
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 133
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Materials/VehicleMat.uasset" 134
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_att.uasset" 135
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Loop_Cue.uasset" 136
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Materials/Fixed_Template_Master.uasset" 137
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Materials/MaterialInstances/Template_BaseBlue.uasset" 138
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/VehiclePhysicsAsset.uasset" 139
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/Vehicle_SkelMesh.uasset" 140
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Materials/speeddial.uasset" 141
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Speedometer.uasset" 142
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" 143
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 144
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Materials/MasterGrid.uasset" 145
+"../../../Engine/Content/BasicShapes/Cube.uasset" 146
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/GravitySurface.uasset" 147
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/StartingLineText.uasset" 148
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/StartingLineText_Inst.uasset" 149
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Materials/M_Concrete_Panels.uasset" 150
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Materials/M_Metal_Burnished_Steel.uasset" 151
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Materials/Road_Inst.uasset" 152
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_Concrete_Panels_D.uasset" 153
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_Concrete_Panels_N.uasset" 154
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_MacroVariation.uasset" 155
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_Metal_Aluminum_D.uasset" 156
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_Metal_Gold_N.uasset" 157
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/TrackGenerator/Textures/T_Perlin_Noise_M.uasset" 158
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/ArenaMesh/CubeMaterial.uasset" 159
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/ArenaMesh/RoadSegment_01.uasset" 160
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_01_Loop.uasset" 161
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_02_Loop.uasset" 162
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_03_Loop.uasset" 163
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_04_Loop.uasset" 164
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_05_Loop.uasset" 165
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Sound/Engine_Speed_06_Loop.uasset" 166
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Textures/VehicleJoystick_BackgroundL.uasset" 167
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Textures/VehicleJoystick_BackgroundR.uasset" 168
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 169
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 170
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/LeftVirtualJoystickOnly.uasset" 171
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdv/Vehicle/VehicleBodyCollision.uasset" 172
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/AdvancedVehicleOverview.uasset" 173
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrusters/Thrust_UpA_Blueprint.uasset" 174
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrust_UpA_Blueprint.uasset" 175
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/VehicleAdvGameMode.uasset" 176
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrusters/PhysicsThruster5_Blueprint.uasset" 177
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrusters/Thrust_ForwardA.uasset" 178
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrusters/Thrust_LeftA_Blueprint.uasset" 179
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Blueprints/Thrusters/Thrust_RightA_Blueprint.uasset" 180
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 181
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 182
+"../../../Engine/Content/BasicShapes/Cone.uasset" 183
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 184
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 185
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 186
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 187
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 188
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 189
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 190
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 191
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 192
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 193
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 194
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 195
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 196
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 197
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 198
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 199
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 200
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 201
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 202
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 203
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 204
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 205
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 206
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 207
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 208
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 209
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 210
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 211
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 212
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 213
+"../../../Engine/Content/EditorResources/S_Note.uasset" 214
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 215
+"../../../Engine/Content/EditorResources/S_Thruster.uasset" 216
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 217
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 218
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 219
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 220
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 221
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 222
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 223
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 224
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 225
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 226
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 227
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 228
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 229
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 230
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 232
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 233
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 234
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 235
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 236
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 237
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 238
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 239
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 240
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 241
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 242
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 243
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 244
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 245
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 246
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 247
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 248
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 249
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 250
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 251
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 252
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 253
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 254
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 255
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 256
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 257
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 258
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 259
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 260
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 261
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 262
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 263
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 264
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 265
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 266
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 267
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 268
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 269
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 270
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 271
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 272
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 273
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 274
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 275
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 276
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 277
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 278
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 279
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 280
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 281
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 282
+"../../../Engine/Content/EngineResources/Black.uasset" 283
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 284
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 285
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 286
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 287
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 288
+"../../../Engine/Content/EngineSounds/Master.uasset" 289
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 290
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 291
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 292
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 293
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 294
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 295
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 296
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 297
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 298
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 299
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 300
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 301
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 302
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 303
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 304
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 305
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 306
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 308
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 309
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 310
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 311
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 312
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 313
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 314
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 315
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 316
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 317
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 318
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 319
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 320
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 321
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 322
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 323
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 324
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 325
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 326
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 327
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 328
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 329
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 330
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 331
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 332
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 333
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 334
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 335
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 336
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 337
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 338
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 339
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 340
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 341
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 342
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 343
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 344
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 345
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 346
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 347
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 348
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 349
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 350
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 351
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 352
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 353
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 354
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_AssetPlatform.uasset" 355
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 356
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 357
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 358
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 359
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 360
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 361
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 362
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 363
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/Advanced_Lighting.umap" 364
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 365
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 366
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 367
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 368
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 369
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 370
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 371
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 372
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 373
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 374
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 375
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 376
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Copper.uasset" 377
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Statue_M.uasset" 378
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Statue_N.uasset" 379
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 380
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Architecture/Floor_400x400.uasset" 381
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 382
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_Chair.uasset" 383
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/Materials/M_Statue.uasset" 384
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_Statue.uasset" 385
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_TableRound_M.uasset" 386
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_TableRound_N.uasset" 387
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/Materials/M_TableRound.uasset" 388
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_TableRound.uasset" 389
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/Minimal_Default.umap" 390
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Fire01_Cue.uasset" 391
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 392
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 393
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 394
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Water_N.uasset" 395
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 396
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 397
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/P_Fire.uasset" 398
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 399
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Smoke01_Cue.uasset" 400
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/P_Smoke.uasset" 401
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 402
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 403
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Spark_Core.uasset" 404
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/Materials/M_Spark.uasset" 405
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/P_Sparks.uasset" 406
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 407
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Steam01_Cue.uasset" 408
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/P_Steam_Lit.uasset" 409
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 410
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Lamp_M.uasset" 411
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Lamp_N.uasset" 412
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/Materials/M_Lamp.uasset" 413
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 414
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 415
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 416
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 417
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 418
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 419
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 420
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 421
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 422
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 423
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 424
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 425
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 426
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 427
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 428
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 429
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 430
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 431
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 432
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 433
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 434
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 435
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 436
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 437
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 438
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 439
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 440
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 441
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 442
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 443
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 444
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 445
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 446
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Gradinet_01.uasset" 447
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 448
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 449
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 450
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 451
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 452
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 453
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 454
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 455
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 456
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 457
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 458
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 459
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 460
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 461
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 462
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 463
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 464
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 465
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 466
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Ground_Grass.uasset" 467
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 468
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 469
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 470
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 471
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 472
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Ground_Moss.uasset" 473
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 474
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 475
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Gold.uasset" 476
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 477
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Rust.uasset" 478
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 479
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 480
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Metal_Steel.uasset" 481
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 482
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 483
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 484
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 485
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 486
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 487
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 488
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 489
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Rock_Slate.uasset" 490
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 491
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 492
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 493
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 494
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 495
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 496
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 497
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 498
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 499
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 500
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 501
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Tech_Panel.uasset" 502
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Water_Lake.uasset" 503
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Water_M.uasset" 504
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Water_Ocean.uasset" 505
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 506
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 507
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 508
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 509
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 510
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 511
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 512
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 513
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Wood_Oak.uasset" 514
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 515
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 516
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Wood_Pine.uasset" 517
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 518
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 519
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 520
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Architecture/Wall_400x200.uasset" 521
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 522
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 523
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Collapse_Cue.uasset" 524
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 525
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 526
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 527
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 528
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/MaterialSphere.uasset" 529
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Frame_M.uasset" 530
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Textures/T_Frame_N.uasset" 531
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/Materials/M_Frame.uasset" 532
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_CornerFrame.uasset" 533
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_DoorFrame.uasset" 534
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_GlassWindow.uasset" 535
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_PillarFrame.uasset" 536
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_PillarFrame300.uasset" 537
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Props/SM_WindowFrame.uasset" 538
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Shapes/Shape_Cube.uasset" 539
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 540
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Shapes/Shape_Sphere.uasset" 541
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/StarterContent/Maps/StarterMap.umap" 542
+"../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/Tracks/Elements/PositionTracker.uasset" 543
 "../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/LayerInfo/Desert_LayerInfo.uasset" 544
 "../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/LayerInfo/Track_LayerInfo.uasset" 545
 "../../../../../../Andrew/School/Grade 12/ISM/Final Product/RocketRacer/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap_BuiltData.uasset" 546
