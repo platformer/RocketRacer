@@ -4,12 +4,12 @@ Quit Game:                    | [none] / ESC
 Accelerate:                   | RT / W
 Brake/Reverse:                | LT / S
 Turn:                         | Left Stick / A and D
-Roll Clockwise:               | RB / [none]
-Roll Counterclockwise:        | LB / [none]
+Roll Clockwise:               | RB / E
+Roll Counterclockwise:        | LB / Q
 Thrust Up:                    | A / Up Arrow
 Thrust Down:                  | Y / Down Arrow
 Thrust Left:                  | B / Left Arrow
 Thrust Right:                 | X / Right Arrow
-Lock Car Rotation:            | Left Stick Button / Q
+Lock Car Rotation:            | Left Stick Button / Shift
 Reset to Last Checkpoint:     | Start / R
-Switch Camera:                | Select / E
+Switch Camera:                | Select / Tab

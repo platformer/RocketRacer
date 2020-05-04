@@ -1606,7 +1606,7 @@ Windows.Input:/Script/Engine.InputSettings:bCaptureMouseOnLaunch:0=True
 Windows.Input:/Script/Engine.InputSettings:bUseAutocorrect:0=False
 Windows.Input:/Script/Engine.InputSettings:DefaultViewportMouseCaptureMode:0=CapturePermanently_IncludingInitialMouseDown
 Windows.Input:/Script/Engine.InputSettings:DefaultViewportMouseLockMode:0=LockOnCapture
-Windows.Input:/Script/Engine.InputSettings:ActionMappings:0=(ActionName="SwitchCamera",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=E)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:0=(ActionName="SwitchCamera",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Tab)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:1=(ActionName="ResetVR",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=R)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:2=(ActionName="SwitchCamera",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_Special_Left)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:3=(ActionName="ThrustUp",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_FaceButton_Bottom)
@@ -1617,8 +1617,9 @@ Windows.Input:/Script/Engine.InputSettings:ActionMappings:7=(ActionName="ThrustR
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:8=(ActionName="ThrustRight",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Right)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:9=(ActionName="ThrustLeft",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_FaceButton_Right)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:10=(ActionName="ThrustLeft",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Left)
-Windows.Input:/Script/Engine.InputSettings:ActionMappings:11=(ActionName="LockRotation",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Q)
-Windows.Input:/Script/Engine.InputSettings:ActionMappings:12=(ActionName="LockRotation",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_LeftThumbstick)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:11=(ActionName="LockRotation",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Gamepad_LeftThumbstick)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:12=(ActionName="LockRotation",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=LeftShift)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:13=(ActionName="LockRotation",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=RightShift)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:0=(AxisName="MoveForward",Scale=1.000000,Key=W)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:1=(AxisName="MoveForward",Scale=-1.000000,Key=S)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:2=(AxisName="MoveRight",Scale=-1.000000,Key=A)
@@ -1635,6 +1636,8 @@ Windows.Input:/Script/Engine.InputSettings:AxisMappings:12=(AxisName="RotateSide
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:13=(AxisName="RotateForwards",Scale=1.000000,Key=Gamepad_LeftY)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:14=(AxisName="MoveForward",Scale=1.000000,Key=Gamepad_RightTriggerAxis)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:15=(AxisName="MoveForward",Scale=-1.000000,Key=Gamepad_LeftTriggerAxis)
+Windows.Input:/Script/Engine.InputSettings:AxisMappings:16=(AxisName="RotateSideways",Scale=5.000000,Key=Q)
+Windows.Input:/Script/Engine.InputSettings:AxisMappings:17=(AxisName="RotateSideways",Scale=-5.000000,Key=E)
 Windows.Input:/Script/Engine.InputSettings:ConsoleKeys:0=Tilde
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:0=(Key=F11,Command="LevelEditor.ToggleImmersive", bIgnoreCtrl=True, bIgnoreAlt=True)
 Windows.Input:/Script/Engine.PlayerInput:DebugExecBindings:1=(Key=F11,Command="MainFrame.ToggleFullscreen",Shift=True)
